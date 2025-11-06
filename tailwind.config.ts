@@ -13,6 +13,11 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        baloo: ['"Baloo 2"', 'cursive'],
+        noto: ['"Noto Serif Devanagari"', 'serif'],
+        sans: ['system-ui', 'sans-serif'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -56,6 +61,14 @@ export default {
           "accent-foreground": "hsl(var(--sidebar-accent-foreground))",
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
+        },
+        heritage: {
+          soil: "hsl(var(--heritage-soil))",
+          coconut: "hsl(var(--heritage-coconut))",
+          sea: "hsl(var(--heritage-sea))",
+          turmeric: "hsl(var(--heritage-turmeric))",
+          terracotta: "hsl(var(--heritage-terracotta))",
+          clay: "hsl(var(--heritage-clay))",
         },
       },
       borderRadius: {

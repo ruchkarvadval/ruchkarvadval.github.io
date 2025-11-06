@@ -1,0 +1,1541 @@
+{
+  "recipes": [
+    {
+      "id": "valache-dhapate-field-bean-flatbread",
+      "title": "Valache Dhapate (Field Bean Flatbread)",
+      "title_marathi": "वाळाचे धापटे / धापटी",
+      "category": "Breakfast",
+      "ingredients": [
+        "Jowar flour – 1 cup",
+        "Whole wheat flour – 1 cup",
+        "Besan (gram flour) – 1/2 cup",
+        "Soaked, skinned vaal beans – 1/2 cup (roughly crushed)",
+        "Onion – 1 medium, finely chopped",
+        "Coriander leaves – 1/4 cup, chopped",
+        "Green chilies – 2, finely chopped",
+        "Garlic – 4 cloves, crushed (optional)",
+        "Cumin seeds – 1 tsp",
+        "Sesame seeds – 1 tsp",
+        "Turmeric – 1/2 tsp",
+        "Red chili powder – 1 tsp (optional)",
+        "Salt – to taste",
+        "Oil or ghee – for roasting"
+      ],
+      "prep_time": "15 mins (plus bean soak)",
+      "cook_time": "20 mins",
+      "total_time": "35 mins",
+      "serves": "4",
+      "procedure": [
+        "Mix flours with vaal, onion, coriander, chilies, garlic, cumin, sesame, turmeric, chili powder, and salt.",
+        "Add water gradually to form a soft dough; knead with 1–2 tsp oil and rest 10–15 mins.",
+        "Oil a banana leaf or plastic; pat a lemon-sized dough ball into a 5–6 inch round (medium thickness).",
+        "Roast on a medium-hot tawa; flip when spots appear. Drizzle oil/ghee; cook both sides.",
+        "Repeat for all; keep covered to stay soft."
+      ],
+      "serving_suggestions": "Serve hot with white butter/ghee and dry garlic chutney or pickle; tea or curd on the side.",
+      "context_tips": "Hearty farm breakfast from coastal Palghar; hand‑patting gives rustic texture. Keep medium thickness so insides cook before outsides char."
+    },
+    {
+      "id": "tandalache-ghavan-rice-crepes",
+      "title": "Tandalache Ghavan (Rice Crepes)",
+      "title_marathi": "तांदळाचे घावन",
+      "category": "Breakfast",
+      "ingredients": [
+        "Rice flour – 2 cups",
+        "Water – 2½ to 3 cups (thin batter)",
+        "Salt – 1/2 tsp",
+        "Optional: pinch cumin; spoonful of yogurt",
+        "Oil – for greasing pan"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "15 mins",
+      "total_time": "25 mins",
+      "serves": "4 (8 crepes)",
+      "procedure": [
+        "Whisk rice flour and salt with water to a very thin, lump‑free batter; rest 5–10 mins.",
+        "Heat a greased tawa on medium; keep batter stirred (it settles).",
+        "Pour a ladle, swirl to spread lace‑thin. Cover 15–20 sec; cook one side only.",
+        "Slide off carefully; repeat."
+      ],
+      "serving_suggestions": "Serve with coconut chutney, dry fish chutney, or sweetened coconut milk; also pairs with fish curry.",
+      "context_tips": "Unlike dosa, ghavan needs no fermentation; some families add a splash of palm toddy for lightness."
+    },
+    {
+      "id": "amboli-fermented-rice-urad-pancake",
+      "title": "Amboli (Fermented Rice–Urad Pancake)",
+      "title_marathi": "अंबोळी",
+      "category": "Breakfast",
+      "ingredients": [
+        "Rice – 2 cups (parboiled preferred)",
+        "Split urad dal – 1/2 cup",
+        "Fenugreek seeds – 1 tsp",
+        "Poha – 1/4 cup (optional)",
+        "Salt – 1 tsp",
+        "Oil – for greasing",
+        "Water – as needed"
+      ],
+      "prep_time": "8–12 hours (soak + ferment)",
+      "cook_time": "30 mins",
+      "total_time": "510 mins",
+      "serves": "10 pancakes",
+      "procedure": [
+        "Soak rice, urad, and fenugreek 4–6 hrs; add poha later; grind smooth to thick batter.",
+        "Salt and ferment overnight till airy (toddy was traditional; pinch of yeast acceptable).",
+        "Pour for a 6–7 inch pancake; do not spread thin. Cover and cook; flip once to finish."
+      ],
+      "serving_suggestions": "Serve hot with fish curries or with butter and chutney at breakfast.",
+      "context_tips": "A mild tang is ideal. Fermentation time varies with weather along the coast."
+    },
+    {
+      "id": "kanda-pohe-onion-poha",
+      "title": "Kanda Pohe (Onion Poha)",
+      "title_marathi": "कांदे पोहे",
+      "category": "Breakfast",
+      "ingredients": [
+        "Thick poha – 2 cups",
+        "Onion – 2, finely chopped",
+        "Green chilies – 2, slit",
+        "Curry leaves – 8–10",
+        "Peanuts – 3 tbsp",
+        "Mustard seeds – 1 tsp",
+        "Cumin – 1 tsp",
+        "Turmeric – 1/2 tsp",
+        "Sugar – 1 tsp (optional)",
+        "Salt – to taste",
+        "Oil – 2 tbsp",
+        "Garnish: grated coconut, coriander, lemon wedges"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "10 mins",
+      "total_time": "20 mins",
+      "serves": "3–4",
+      "procedure": [
+        "Rinse poha briefly; drain. Toss in turmeric, sugar, and salt.",
+        "Heat oil; splutter mustard and cumin. Fry peanuts; add curry leaves and chilies.",
+        "Add onions; sauté to translucent‑golden.",
+        "Fold in poha on low heat 2–3 mins. Moisten with a sprinkle of water if dry.",
+        "Finish with lemon; garnish with coconut and coriander."
+      ],
+      "serving_suggestions": "Serve warm with lemon. Classic coastal tea‑time or breakfast dish.",
+      "context_tips": "Use thick poha; avoid over‑soaking. A dash of local vinegar is a regional twist."
+    },
+    {
+      "id": "nagli-pej-ambil-ragi-porridge-drink",
+      "title": "Nagli Pej / Ambil (Ragi Porridge Drink)",
+      "title_marathi": "नाचणीची पेज / आंबिल",
+      "category": "Breakfast",
+      "ingredients": [
+        "Ragi (finger millet) flour – 1/2 cup",
+        "Water – 3 cups",
+        "Buttermilk – 1 cup (savory) OR Jaggery – 1/2 cup (sweet)",
+        "Garlic – 1 clove, crushed (savory)",
+        "Green chili – 1, slit (savory)",
+        "Salt – to taste (savory)",
+        "Cardamom – pinch (sweet)"
+      ],
+      "prep_time": "5 mins",
+      "cook_time": "10 mins (+ optional overnight ferment)",
+      "total_time": "15 mins",
+      "serves": "4 glasses",
+      "procedure": [
+        "Whisk ragi flour with 1 cup water; add remaining water with garlic and chili.",
+        "Cook on medium, stirring till glossy and raw smell fades (5–7 mins).",
+        "Cool to lukewarm; for ambil, ferment overnight for a slight tang.",
+        "Add buttermilk and salt (savory) OR dissolve jaggery and cardamom (sweet)."
+      ],
+      "serving_suggestions": "Serve cool in hot weather; garnish with cumin/cilantro if savory.",
+      "context_tips": "Constant stirring prevents lumps; fermentation improves digestibility."
+    },
+    {
+      "id": "god-ghavan-sweet-jaggery-crepe",
+      "title": "God Ghavan (Sweet Jaggery Crepe)",
+      "title_marathi": "गोड घावन",
+      "category": "Breakfast",
+      "ingredients": [
+        "Rice flour – 1½ cups (or 1 cup rice + 1/2 cup semolina)",
+        "Jaggery – 3/4 cup, grated",
+        "Ripe banana – 1, mashed (optional)",
+        "Grated coconut – 2 tbsp (optional)",
+        "Cardamom – 1/2 tsp",
+        "Salt – pinch",
+        "Water or milk – ~2 cups",
+        "Ghee – for cooking"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "20 mins",
+      "total_time": "30 mins",
+      "serves": "6–8 crepes",
+      "procedure": [
+        "Combine dry items; add jaggery, banana, coconut, cardamom, and salt.",
+        "Whisk in liquid to dosa‑like batter; rest 10 mins.",
+        "Cook 5–6 inch crepes on medium‑low with ghee; flip once to golden."
+      ],
+      "serving_suggestions": "Serve warm as‑is or with a dab of ghee or cream.",
+      "context_tips": "Slightly thicker than plain ghavan for the best texture."
+    },
+    {
+      "id": "sabudana-khichdi-sago-pilaf",
+      "title": "Sabudana Khichdi (Sago Pilaf)",
+      "title_marathi": "साबुदाणा खिचडी",
+      "category": "Breakfast",
+      "ingredients": [
+        "Sabudana – 1 cup (soak 4–5 hrs; drain)",
+        "Potato – 1, small dice",
+        "Peanuts – 1/3 cup, roasted & coarsely ground",
+        "Green chilies – 2, chopped",
+        "Cumin – 1 tsp",
+        "Curry leaves – 5–6 (optional)",
+        "Ghee/peanut oil – 2 tbsp",
+        "Salt (sendha namak for fasts) – to taste",
+        "Sugar – 1 tsp",
+        "Garnish: grated coconut, coriander, lemon"
+      ],
+      "prep_time": "10 mins (after soaking)",
+      "cook_time": "10 mins",
+      "total_time": "20 mins",
+      "serves": "2–3",
+      "procedure": [
+        "Rinse and soak sabudana 4–5 hrs with just‑covering water; drain well.",
+        "Toss pearls with peanut powder, salt, and sugar.",
+        "Heat ghee; temper cumin (and curry leaves). Cook potato till tender.",
+        "Add sabudana mix; toss on medium‑low till pearly and translucent (~5–6 mins).",
+        "Finish with lemon; garnish."
+      ],
+      "serving_suggestions": "Serve hot; classic breakfast or fasting dish.",
+      "context_tips": "Coat pearls with peanut to reduce clumping; avoid over‑stirring."
+    },
+    {
+      "id": "bharlela-paplet-stuffed-pomfret-in-banana-leaf",
+      "title": "Bharlela Paplet (Stuffed Pomfret in Banana Leaf)",
+      "title_marathi": "भरलेला पापलेट",
+      "category": "Seafood",
+      "ingredients": [
+        "Whole pomfrets – 2 (300–350 g each), cleaned",
+        "Grated coconut – 1 cup",
+        "Green chilies – 3–4",
+        "Garlic – 6 cloves",
+        "Ginger – 1 inch",
+        "Coriander seeds – 2 tsp (or fresh coriander)",
+        "Cumin – 1 tsp",
+        "Turmeric – 1/2 tsp",
+        "Salt – to taste",
+        "Inaagre (palm/cane vinegar) – 2 tbsp (or 1 tbsp tamarind / juice of 1 lemon)",
+        "Oil – 2 tbsp",
+        "Banana leaves – 2, softened over flame"
+      ],
+      "prep_time": "25 mins (plus marination)",
+      "cook_time": "20–25 mins",
+      "total_time": "45 mins",
+      "serves": "2–3",
+      "procedure": [
+        "Score and season fish with salt, turmeric, and a little vinegar.",
+        "Grind coconut, chilies, garlic, ginger, coriander, cumin, turmeric, salt with vinegar to a thick paste.",
+        "Stuff cavity and side slits. Rest 15–20 mins.",
+        "Wrap each fish in banana leaf parcel; secure and pan‑roast covered on medium, turning once or twice, till fish flakes."
+      ],
+      "serving_suggestions": "Unwrap at table; serve with lemon and onion; pairs with rice or ghavan.",
+      "context_tips": "Leaf‑wrapped patravali cooking keeps fish moist and aromatic; mortar‑pestle yields a superior texture."
+    },
+    {
+      "id": "tandalachi-bhakri-rice-flatbread",
+      "title": "Tandalachi Bhakri (Rice Flatbread)",
+      "title_marathi": "तांदळाची भाकरी",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Rice flour – 2 cups",
+        "Hot water – ~2 cups",
+        "Salt – 1/2 tsp",
+        "Optional: 1 tsp oil/ghee"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "20 mins",
+      "total_time": "30 mins",
+      "serves": "4–5",
+      "procedure": [
+        "Scald rice flour with boiling salted water; mix to form hot dough.",
+        "Knead warm till smooth; keep covered. Divide and hand‑pat discs ~6 inch, 1/3 cm thick.",
+        "Cook on hot tawa; flip; press edges; optional brief direct flame for puff."
+      ],
+      "serving_suggestions": "Serve hot with curries, thecha, or butter + jaggery; great with fish gravies.",
+      "context_tips": "Keep dough warm and covered; moisture retention is key to softness."
+    },
+    {
+      "id": "varan-bhaat-plain-dal-with-steamed-rice",
+      "title": "Varan–Bhaat (Plain Dal with Steamed Rice)",
+      "title_marathi": "वरन भात",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Toor dal – 1 cup (rinse; soak 30 mins)",
+        "Water – 3 cups",
+        "Turmeric – 1/2 tsp",
+        "Hing – pinch",
+        "Salt – to taste",
+        "Jaggery – 1 tsp (optional)",
+        "Tadka: Ghee – 2 tsp; Mustard – 1/2 tsp; Cumin – 1/2 tsp; Curry leaves – 5–6; Garlic – 3 cloves, slivered; Green chili – 1 (optional)",
+        "Rice – 2 cups; water per variety"
+      ],
+      "prep_time": "10 mins (active)",
+      "cook_time": "30–40 mins",
+      "total_time": "40 mins",
+      "serves": "4",
+      "procedure": [
+        "Pressure cook dal with water, turmeric, and hing till creamy; mash.",
+        "Salt and optional jaggery; simmer to medium‑thick.",
+        "Make tadka in ghee and pour over; cook rice separately and serve dal over rice with ghee."
+      ],
+      "serving_suggestions": "Serve with pickle/papad; first course in many meals.",
+      "context_tips": "Golden (not burnt) garlic gives sweetness; adjust thickness with hot water."
+    },
+    {
+      "id": "vaalache-birdhe-field-bean-coconut-curry",
+      "title": "Vaalache Birdhe (Field Bean Coconut Curry)",
+      "title_marathi": "वाळाचे बिरडे",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Sprouted & peeled kadve vaal – 2 cups",
+        "Fresh grated coconut – 1/2–3/4 cup",
+        "Tamarind – 1 tsp paste (to taste)",
+        "Goda masala – 1–2 tsp",
+        "Turmeric – 1/2 tsp",
+        "Red chili powder – 1 tsp (to taste)",
+        "Jaggery – 1 tsp (optional)",
+        "Tempering: Oil – 2 tbsp; Mustard – 1/2 tsp; Cumin – 1/2 tsp; Hing – pinch; Curry leaves – few",
+        "Salt – to taste",
+        "Water – as needed"
+      ],
+      "prep_time": "15 mins",
+      "cook_time": "25 mins",
+      "total_time": "40 mins",
+      "serves": "4",
+      "procedure": [
+        "Boil/pressure‑cook sprouted vaal till tender; drain.",
+        "Blend coconut with water to a fine paste. Temper oil with mustard, cumin, hing, curry leaves; add turmeric and chili powder.",
+        "Add vaal, coconut paste, and water to thin; simmer. Season with goda masala, tamarind, salt (and jaggery if using); simmer till balanced."
+      ],
+      "serving_suggestions": "Serve with rice or bhakri; soothing, classic curry.",
+      "context_tips": "Sprouting reduces bitterness; peel translucent skins for the best texture."
+    },
+    {
+      "id": "teprat-goat-trotters-bottle-gourd-wedding-curry",
+      "title": "Teprat (Goat Trotters & Bottle Gourd Wedding Curry)",
+      "title_marathi": "टेप्राट",
+      "category": "Special Events",
+      "ingredients": [
+        "Goat trotters (paya) – 4, cut",
+        "Bottle gourd – 1, large chunks",
+        "Onions – 3, sliced",
+        "Ginger–garlic paste – 3 tbsp",
+        "Inaagre (palm/cane vinegar) – 1/4 cup (or 3 tbsp cider vinegar)",
+        "Teprat masala (roasted): Coriander 2 tbsp, Cumin 2 tsp, Fennel 1 tsp, Black pepper 1 tsp, Cloves 5, Cinnamon 1\", Dry red chilies 5–6, pinch nutmeg",
+        "Turmeric – 1 tsp",
+        "Red chili powder – 2 tsp",
+        "Salt – to taste",
+        "Oil – 4 tbsp",
+        "Water – ~4–5 cups"
+      ],
+      "prep_time": "25 mins",
+      "cook_time": "2–3 hours (slow simmer)",
+      "total_time": "145 mins",
+      "serves": "6–8",
+      "procedure": [
+        "Blanch cleaned trotters 5 mins with a pinch turmeric; drain.",
+        "Fry onions to golden; add ginger–garlic; then turmeric and chili powder.",
+        "Add trotters; roast 5–7 mins. Add ground teprat masala; roast till oil separates.",
+        "Add hot water and salt; cover and slow‑simmer ~2 hours.",
+        "Add bottle gourd; cook till tender. Finish with vinegar; simmer 10 mins and balance seasoning."
+      ],
+      "serving_suggestions": "Serve with rice or vade; include marrow pieces in each bowl; onion–lemon salad on side.",
+      "context_tips": "Slow fire yields gelatin‑rich broth. Inaagre is milder and slightly sweet—distinct from synthetic vinegar."
+    },
+    {
+      "id": "bombil-fry-crispy-bombay-duck",
+      "title": "Bombil Fry (Crispy Bombay Duck)",
+      "title_marathi": "बोंबील फ्राय",
+      "category": "Seafood",
+      "ingredients": [
+        "Bombil (Bombay duck) – 8 fillets",
+        "Turmeric – 1/2 tsp",
+        "Red chili powder – 1–2 tsp",
+        "Garlic paste – 1 tsp",
+        "Lemon juice – 1 tbsp",
+        "Salt – to taste",
+        "Rice flour – 1/2 cup",
+        "Fine rava (semolina) – 1/2 cup",
+        "Oil – for shallow fry"
+      ],
+      "prep_time": "15 mins (marination)",
+      "cook_time": "12–15 mins",
+      "total_time": "27 mins",
+      "serves": "4",
+      "procedure": [
+        "Pat bombil dry. Marinate with turmeric, chili, garlic, lemon, salt for 10–15 mins.",
+        "Mix rice flour and rava; dredge fillets to coat both sides evenly.",
+        "Shallow fry on medium heat till crisp-golden; turn gently once."
+      ],
+      "serving_suggestions": "Serve immediately with lemon wedges and onion rings; pairs with solkadhi or rice.",
+      "context_tips": "Bombil holds water—pat very dry for best crispness; flour+rava gives durable crunch."
+    },
+    {
+      "id": "bombil-kalwan-bombay-duck-curry",
+      "title": "Bombil Kalwan (Bombay Duck Curry)",
+      "title_marathi": "बोंबील कालवण",
+      "category": "Seafood",
+      "ingredients": [
+        "Bombil – 8–10 cut pieces",
+        "Onion – 2, sliced",
+        "Tomato – 1, chopped",
+        "Fresh coconut – 3/4 cup",
+        "Coriander seeds – 2 tsp",
+        "Cumin – 1 tsp",
+        "Dry red chilies – 3–4",
+        "Garlic – 6 cloves",
+        "Ginger – 1 inch",
+        "Kokum – 4–5 petals (or tamarind)",
+        "Turmeric – 1/2 tsp",
+        "Salt – to taste",
+        "Oil – 2 tbsp"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "20 mins",
+      "total_time": "40 mins",
+      "serves": "4",
+      "procedure": [
+        "Grind coconut with coriander, cumin, red chilies, garlic, ginger to a fine paste.",
+        "Heat oil; sauté onions to golden; add tomato till soft.",
+        "Add masala and turmeric; roast till aromatic and oil separates.",
+        "Add water to curry consistency; slide in bombil and kokum; simmer 6–8 mins; salt to taste."
+      ],
+      "serving_suggestions": "Serve with steamed rice or tandalachi bhakri.",
+      "context_tips": "Do not overcook bombil; add fish after gravy boils."
+    },
+    {
+      "id": "kalva-kalwan-clam-curry",
+      "title": "Kalva Kalwan (Clam Curry)",
+      "title_marathi": "कालवा कालवण",
+      "category": "Seafood",
+      "ingredients": [
+        "Fresh clams (kalva) – 500 g, cleaned",
+        "Onion – 2, finely chopped",
+        "Fresh coconut – 3/4 cup",
+        "Coriander seeds – 2 tsp",
+        "Cumin – 1 tsp",
+        "Green chilies – 2",
+        "Garlic – 5 cloves",
+        "Ginger – 1 inch",
+        "Turmeric – 1/2 tsp",
+        "Tamarind – 1 tsp paste",
+        "Oil – 2 tbsp",
+        "Salt – to taste"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "15 mins",
+      "total_time": "35 mins",
+      "serves": "4",
+      "procedure": [
+        "Grind coconut with coriander, cumin, chilies, garlic, ginger to a smooth paste.",
+        "Sauté onion in oil till light brown; add turmeric and coconut paste; roast.",
+        "Add water; bring to boil; add clams; cook till they open.",
+        "Season with tamarind and salt; simmer briefly."
+      ],
+      "serving_suggestions": "Serve with rice or ghavan.",
+      "context_tips": "Discard unopened clams; avoid overcooking to keep tender."
+    },
+    {
+      "id": "sukkat-javla-chi-bhaji-dry-shrimp-stir-fry",
+      "title": "Sukkat Javla Chi Bhaji (Dry Shrimp Stir-fry)",
+      "title_marathi": "सुकट जावळा भाजी",
+      "category": "Seafood",
+      "ingredients": [
+        "Dried tiny shrimp (javla) – 1 cup",
+        "Onion – 1, sliced",
+        "Green chilies – 2, slit",
+        "Garlic – 4 cloves, sliced",
+        "Curry leaves – few",
+        "Oil – 1.5 tbsp",
+        "Turmeric – 1/4 tsp",
+        "Grated coconut – 2 tbsp",
+        "Lemon – to finish"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "8–10 mins",
+      "total_time": "18 mins",
+      "serves": "3–4",
+      "procedure": [
+        "Rinse javla quickly; squeeze dry.",
+        "Heat oil; sauté garlic till pale; add onion, chilies, curry leaves.",
+        "Add javla and turmeric; stir-fry on medium-high 4–5 mins.",
+        "Finish with coconut and lemon."
+      ],
+      "serving_suggestions": "Serve with bhakri or as a side to rice meal.",
+      "context_tips": "Quick wash only—long soaking dulls flavor."
+    },
+    {
+      "id": "kolim-chi-chutney-dried-shrimp-chutney",
+      "title": "Kolim Chi Chutney (Dried Shrimp Chutney)",
+      "title_marathi": "कोळंबी/कोळीम चटणी",
+      "category": "Seafood",
+      "ingredients": [
+        "Dried shrimp – 1/2 cup",
+        "Dry coconut – 1/2 cup",
+        "Garlic – 6 cloves",
+        "Red chili powder – 1–2 tsp",
+        "Tamarind – 1 tsp",
+        "Jaggery – 1 tsp",
+        "Salt – to taste"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "0 mins",
+      "total_time": "10 mins",
+      "serves": "A bowl",
+      "procedure": [
+        "Dry-roast shrimp lightly; cool.",
+        "Pound with dry coconut, garlic, chili, tamarind, jaggery, and salt to coarse chutney."
+      ],
+      "serving_suggestions": "Serve with oil-sprinkled bhakri and onion.",
+      "context_tips": "Pounding (not fine grinding) gives authentic texture."
+    },
+    {
+      "id": "paplet-saar-pomfret-curry",
+      "title": "Paplet Saar (Pomfret Curry)",
+      "title_marathi": "पापलेट सार",
+      "category": "Seafood",
+      "ingredients": [
+        "Pomfret – 2 medium, sliced",
+        "Onion – 1, chopped",
+        "Fresh coconut – 3/4 cup",
+        "Green chilies – 2",
+        "Garlic – 5 cloves",
+        "Ginger – 1 inch",
+        "Turmeric – 1/2 tsp",
+        "Kokum – 3–4",
+        "Oil – 1.5 tbsp",
+        "Salt – to taste"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "12–15 mins",
+      "total_time": "32 mins",
+      "serves": "4",
+      "procedure": [
+        "Grind coconut with chilies, garlic, ginger to smooth paste.",
+        "Sauté onion in oil; add turmeric and masala; roast briefly.",
+        "Add water to thin; bring to boil; add fish and kokum; simmer gently till fish cooks."
+      ],
+      "serving_suggestions": "Serve with steamed rice.",
+      "context_tips": "Add fish only after gravy boils; do not over-stir."
+    },
+    {
+      "id": "sukka-bangda-ambat-dry-mackerel-curry",
+      "title": "Sukka Bangda Ambat (Dry Mackerel Curry)",
+      "title_marathi": "सुक्या बांगड्यांची आमट",
+      "category": "Seafood",
+      "ingredients": [
+        "Dried mackerel – 4, soaked & cleaned",
+        "Onion – 1, chopped",
+        "Tomato – 1, chopped",
+        "Coconut – 1/2 cup",
+        "Coriander seeds – 2 tsp",
+        "Cumin – 1/2 tsp",
+        "Red chilies – 3–4",
+        "Garlic – 5 cloves",
+        "Turmeric – 1/2 tsp",
+        "Tamarind – 1 tsp",
+        "Oil – 1.5 tbsp",
+        "Salt"
+      ],
+      "prep_time": "20 mins (soaking)",
+      "cook_time": "15 mins",
+      "total_time": "35 mins",
+      "serves": "4",
+      "procedure": [
+        "Grind coconut-coriander-cumin-chilies-garlic to paste.",
+        "Sauté onion and tomato; add paste and turmeric; roast.",
+        "Add water; bring to boil; add soaked mackerel and tamarind; simmer till flavors meld."
+      ],
+      "serving_suggestions": "Serve with rice and onion salad.",
+      "context_tips": "Rinse dried fish well to control salinity."
+    },
+    {
+      "id": "kolambi-bhaat-prawn-pulao",
+      "title": "Kolambi Bhaat (Prawn Pulao)",
+      "title_marathi": "कोळंबी भात",
+      "category": "Seafood",
+      "ingredients": [
+        "Prawns – 400 g",
+        "Basmati rice – 2 cups (soaked 20 mins)",
+        "Onion – 2, sliced",
+        "Tomato – 1, chopped",
+        "Ginger-garlic paste – 1.5 tbsp",
+        "Coconut milk – 1 cup",
+        "Whole spices: bay 1, cloves 4, cinnamon 1\"",
+        "Turmeric 1/2 tsp",
+        "Chili powder 1 tsp",
+        "Coriander leaves – handful",
+        "Oil/ghee – 3 tbsp",
+        "Salt"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "25 mins",
+      "total_time": "45 mins",
+      "serves": "4–5",
+      "procedure": [
+        "Marinate prawns with turmeric, chili, salt 10 mins.",
+        "Heat oil/ghee; fry whole spices and onion to golden; add ginger-garlic, tomato.",
+        "Add prawns; sauté briefly.",
+        "Add soaked rice, salt, coconut milk + water to 4 cups total; cook covered till rice is done.",
+        "Rest 10 mins; fluff and garnish."
+      ],
+      "serving_suggestions": "Serve with lemon and salad.",
+      "context_tips": "Avoid overcooking prawns; add briefly before simmering rice."
+    },
+    {
+      "id": "kombdi-kalwan-chicken-curry",
+      "title": "Kombdi Kalwan (Chicken Curry)",
+      "title_marathi": "कोम्बडीचं कालवण",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Country chicken – 1 kg, curry cut",
+        "Onions – 3, sliced",
+        "Tomato – 1, chopped",
+        "Ginger-garlic paste – 2 tbsp",
+        "Grated coconut – 3/4 cup",
+        "Vadvali/East-Indian masala – 2 tbsp (or garam masala + chili)",
+        "Turmeric – 1/2 tsp",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "35–40 mins",
+      "total_time": "55 mins",
+      "serves": "5–6",
+      "procedure": [
+        "Roast coconut to light brown; grind with water.",
+        "Brown onions in oil; add ginger-garlic; then turmeric and masala; roast.",
+        "Add chicken and salt; bhunao 6–8 mins.",
+        "Add coconut paste and water; simmer covered till tender."
+      ],
+      "serving_suggestions": "Serve with vade or rice bhakri.",
+      "context_tips": "Country chicken needs longer simmer; adjust water accordingly."
+    },
+    {
+      "id": "mutton-rassa-goat-curry",
+      "title": "Mutton Rassa (Goat Curry)",
+      "title_marathi": "मटण रस्सा",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Goat meat – 800 g",
+        "Onions – 3, sliced",
+        "Ginger-garlic paste – 2 tbsp",
+        "Coconut – 3/4 cup",
+        "Coriander seeds – 1 tbsp",
+        "Cumin – 1 tsp",
+        "Black pepper – 1/2 tsp",
+        "Cloves – 4",
+        "Cinnamon – 1\"",
+        "Dry red chilies – 4–5",
+        "Turmeric – 1/2 tsp",
+        "Oil – 4 tbsp",
+        "Salt"
+      ],
+      "prep_time": "25 mins",
+      "cook_time": "45–60 mins",
+      "total_time": "70 mins",
+      "serves": "5–6",
+      "procedure": [
+        "Roast coconut and spices; grind fine.",
+        "Brown onions well; add ginger-garlic; then turmeric and ground masala.",
+        "Add mutton and salt; roast till sealed.",
+        "Add water; cover and simmer till tender (pressure cook if preferred)."
+      ],
+      "serving_suggestions": "Serve with rice or bhakri; onion-lemon on side.",
+      "context_tips": "Slow simmer deepens flavor; rest curry 15 mins before serving."
+    },
+    {
+      "id": "dalimbi-usal-hyacinth-bean-sprout-curry",
+      "title": "Dalimbi Usal (Hyacinth Bean Sprout Curry)",
+      "title_marathi": "डाळिंबी उसळ",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Dried val (dalimbi) – 2 cups, soaked, sprouted, peeled",
+        "Onion – 1, chopped",
+        "Tomato – 1, chopped",
+        "Goda masala – 1–2 tsp",
+        "Turmeric – 1/2 tsp",
+        "Chili powder – 1 tsp",
+        "Jaggery – 1 tsp",
+        "Tamarind – 1 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "12 hrs (soak/sprout)",
+      "cook_time": "25 mins",
+      "total_time": "25 mins",
+      "serves": "4",
+      "procedure": [
+        "Pressure-cook sprouted beans till tender.",
+        "Temper oil with mustard/cumin (optional); sauté onion and tomato.",
+        "Add spices and cooked beans; adjust water; simmer 5–7 mins.",
+        "Balance with jaggery and tamarind; finish with coriander."
+      ],
+      "serving_suggestions": "Serve with rice or bhakri.",
+      "context_tips": "Peel skins for creamy texture; kadve-vaal has inherent bitterness—balance carefully."
+    },
+    {
+      "id": "surna-chi-kaalvan-yam-black-peas-curry",
+      "title": "Surna Chi Kaalvan (Yam & Black Peas Curry)",
+      "title_marathi": "सुरणची कालवण",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Elephant-foot yam – 400 g, cubes",
+        "Kala vatana (black peas) – 1 cup, soaked",
+        "Onion – 1, chopped",
+        "Coconut – 1/2 cup",
+        "Coriander seeds – 2 tsp",
+        "Cumin – 1 tsp",
+        "Garlic – 5 cloves",
+        "Red chilies – 3",
+        "Tamarind – 1 tsp",
+        "Turmeric – 1/2 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "8 hrs (soak peas)",
+      "cook_time": "35–40 mins",
+      "total_time": "35 mins",
+      "serves": "4",
+      "procedure": [
+        "Pressure-cook black peas till tender; parboil yam with turmeric and salt.",
+        "Grind coconut-coriander-cumin-garlic-chilies to paste.",
+        "Sauté onion; add paste; roast; add peas, yam, tamarind, water; simmer to desired thickness."
+      ],
+      "serving_suggestions": "Serve with rice; drizzle ghee if desired.",
+      "context_tips": "Handle yam carefully; use lemon/vinegar on hands to reduce itch."
+    },
+    {
+      "id": "valpapdi-vangi-bhaji-field-bean-brinjal",
+      "title": "Valpapdi & Vangi Bhaji (Field Bean + Brinjal)",
+      "title_marathi": "वालपापडी आणि वांगी भाजी",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Green val papdi – 250 g, chopped",
+        "Brinjal – 250 g, cubes",
+        "Onion – 1, sliced",
+        "Garlic – 4 cloves, sliced",
+        "Mustard – 1/2 tsp",
+        "Cumin – 1/2 tsp",
+        "Turmeric – 1/2 tsp",
+        "Chili powder – 1 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "18–20 mins",
+      "total_time": "28 mins",
+      "serves": "4",
+      "procedure": [
+        "Heat oil; temper mustard and cumin; add garlic and onion; sauté.",
+        "Add papdi and brinjal; season with turmeric, chili, salt; cook covered till tender; stir occasionally."
+      ],
+      "serving_suggestions": "Serve with bhakri.",
+      "context_tips": "Do not overcook brinjal—retain shape."
+    },
+    {
+      "id": "chana-kobi-batata-bhaji",
+      "title": "Chana–Kobi–Batata Bhaji",
+      "title_marathi": "चना-कोबी-बटाटा भाजी",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Chickpeas – 1 cup, soaked & boiled",
+        "Cabbage – 2 cups, shredded",
+        "Potato – 1 cup, small cubes",
+        "Onion – 1, chopped",
+        "Garlic – 4 cloves, minced",
+        "Mustard – 1/2 tsp",
+        "Cumin – 1/2 tsp",
+        "Turmeric – 1/2 tsp",
+        "Chili powder – 1 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "8 hrs (soak chickpeas)",
+      "cook_time": "20–25 mins",
+      "total_time": "20 mins",
+      "serves": "4",
+      "procedure": [
+        "Temper mustard & cumin in oil; add garlic and onion; sauté.",
+        "Add potatoes; cook half-way.",
+        "Add cabbage and chickpeas; season; cook till tender-crisp."
+      ],
+      "serving_suggestions": "Serve with chapati/bhakri; squeeze lemon before serving.",
+      "context_tips": "Keep cabbage slightly crisp for texture."
+    },
+    {
+      "id": "masale-bhaat-spiced-rice",
+      "title": "Masale Bhaat (Spiced Rice)",
+      "title_marathi": "मसाले भात",
+      "category": "Main Dishes",
+      "ingredients": [
+        "Rice – 2 cups",
+        "Mixed vegetables (peas, carrots, tendli) – 2 cups",
+        "Goda masala – 2 tsp",
+        "Turmeric – 1/2 tsp",
+        "Green chilies – 2, slit",
+        "Mustard – 1/2 tsp",
+        "Cumin – 1/2 tsp",
+        "Curry leaves – few",
+        "Ghee/Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "15 mins",
+      "cook_time": "20 mins",
+      "total_time": "35 mins",
+      "serves": "4–5",
+      "procedure": [
+        "Heat ghee; temper mustard, cumin, curry leaves; add chilies.",
+        "Add vegetables; sauté briefly.",
+        "Stir in washed rice, turmeric, goda masala, salt; add water (per rice) and cook covered till done."
+      ],
+      "serving_suggestions": "Serve with curd and pickle.",
+      "context_tips": "Do not over-stir after rice blooms; rest 10 mins before fluffing."
+    },
+    {
+      "id": "limbache-lonche-lemon-pickle",
+      "title": "Limbache Lonche (Lemon Pickle)",
+      "title_marathi": "लिंबाचे लोणचे",
+      "category": "Preserves",
+      "ingredients": [
+        "Lemons – 12, quartered",
+        "Salt – 1/4 cup",
+        "Turmeric – 1 tsp",
+        "Red chili powder – 2–3 tbsp",
+        "Fenugreek (methi) – 1 tsp, lightly roasted & powdered",
+        "Mustard seeds – 2 tsp, lightly roasted & powdered",
+        "Oil – 1/2 cup"
+      ],
+      "prep_time": "20 mins + 3–4 days curing",
+      "cook_time": "0 mins",
+      "total_time": "20 mins",
+      "serves": "A large jar",
+      "procedure": [
+        "Mix lemon quarters with salt and turmeric; jar and sun for 3–4 days.",
+        "Add chili, methi and mustard powders; heat oil to smoking, cool slightly, pour over; mix and store."
+      ],
+      "serving_suggestions": "Serve with meals, especially plain dal-chawal.",
+      "context_tips": "Use clean, dry jars; oil layer prevents spoilage."
+    },
+    {
+      "id": "kairi-cha-loncha-raw-mango-pickle",
+      "title": "Kairi Cha Loncha (Raw Mango Pickle)",
+      "title_marathi": "कैरीचं लोणचं",
+      "category": "Preserves",
+      "ingredients": [
+        "Raw mango – 6, diced",
+        "Salt – 3 tbsp",
+        "Turmeric – 1 tsp",
+        "Red chili powder – 2–3 tbsp",
+        "Fenugreek – 1 tsp",
+        "Mustard seeds – 2 tsp",
+        "Asafoetida – pinch",
+        "Oil – 1/2 cup"
+      ],
+      "prep_time": "30 mins",
+      "cook_time": "0 mins",
+      "total_time": "30 mins",
+      "serves": "A jar",
+      "procedure": [
+        "Salt and turmeric the mango; rest 30 mins; drain moisture slightly.",
+        "Mix chili, roasted methi & mustard powders; temper oil with hing; cool and mix into mango; bottle."
+      ],
+      "serving_suggestions": "Serve as a side with bhakri and poha.",
+      "context_tips": "Ensure mango is very firm; avoid water contact."
+    },
+    {
+      "id": "kolimache-lonche-tiny-shrimp-pickle",
+      "title": "Kolimache Lonche (Tiny Shrimp Pickle)",
+      "title_marathi": "कोळीमाचं लोणचं",
+      "category": "Preserves",
+      "ingredients": [
+        "Dried tiny shrimp – 1 cup",
+        "Garlic – 1/4 cup, sliced",
+        "Red chili powder – 2 tbsp",
+        "Turmeric – 1/2 tsp",
+        "Vinegar (inaagre) – 2–3 tbsp",
+        "Salt",
+        "Oil – 1/2 cup"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "5 mins (tempering)",
+      "total_time": "25 mins",
+      "serves": "A jar",
+      "procedure": [
+        "Heat oil; lightly fry garlic; cool.",
+        "Mix shrimp with chili, turmeric, salt, vinegar; add cooled oil-garlic; bottle."
+      ],
+      "serving_suggestions": "Serve with rice bhakri.",
+      "context_tips": "Roast shrimp lightly first to remove raw aroma."
+    },
+    {
+      "id": "shengdana-lasun-chutney",
+      "title": "Shengdana–Lasun Chutney",
+      "title_marathi": "शेंगदाणा-लसूण चटणी",
+      "category": "Preserves",
+      "ingredients": [
+        "Roasted peanuts – 1 cup",
+        "Garlic – 6–8 cloves",
+        "Red chili powder – 1–2 tsp",
+        "Salt – to taste"
+      ],
+      "prep_time": "5 mins",
+      "cook_time": "0 mins",
+      "total_time": "5 mins",
+      "serves": "A bowl",
+      "procedure": [
+        "Grind peanuts, garlic, chili, salt to coarse powder."
+      ],
+      "serving_suggestions": "Serve with bhakri and ghee.",
+      "context_tips": "Do not overgrind; coarse texture is ideal."
+    },
+    {
+      "id": "jawas-chutney-flaxseed-powder",
+      "title": "Jawas Chutney (Flaxseed Powder)",
+      "title_marathi": "जवस चटणी",
+      "category": "Preserves",
+      "ingredients": [
+        "Flaxseeds – 1 cup",
+        "Garlic – 4 cloves",
+        "Red chili powder – 1 tsp",
+        "Salt"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "0 mins",
+      "total_time": "10 mins",
+      "serves": "A jar",
+      "procedure": [
+        "Dry-roast flaxseeds; cool; pulse with garlic, chili, and salt."
+      ],
+      "serving_suggestions": "Serve with oil-sprinkled bhakri.",
+      "context_tips": "Grind briefly to avoid gumminess."
+    },
+    {
+      "id": "methkut-roasted-grain-dal-powder",
+      "title": "Methkut (Roasted Grain–Dal Powder)",
+      "title_marathi": "मेथकूट",
+      "category": "Preserves",
+      "ingredients": [
+        "Chana dal – 1/2 cup",
+        "Urad dal – 1/4 cup",
+        "Rice – 1/4 cup",
+        "Wheat dalia – 2 tbsp",
+        "Coriander seeds – 2 tsp",
+        "Cumin – 1 tsp",
+        "Black pepper – 1/2 tsp",
+        "Cloves – 3",
+        "Cinnamon – 1/2\"",
+        "Turmeric – 1/2 tsp",
+        "Asafoetida – pinch",
+        "Salt"
+      ],
+      "prep_time": "25 mins (roasting)",
+      "cook_time": "0 mins",
+      "total_time": "25 mins",
+      "serves": "A jar",
+      "procedure": [
+        "Dry-roast each ingredient separately; cool; grind to fine powder; salt to taste."
+      ],
+      "serving_suggestions": "Serve over hot rice with ghee.",
+      "context_tips": "Roast on low to avoid bitterness; cool fully before grinding."
+    },
+    {
+      "id": "muramba-fruit-preserve-e-g-amla",
+      "title": "Muramba (Fruit Preserve, e.g., Amla)",
+      "title_marathi": "मुरांबा",
+      "category": "Preserves",
+      "ingredients": [
+        "Amla – 500 g, pricked and parboiled",
+        "Sugar – 600 g",
+        "Water – 300 ml",
+        "Cardamom – 1/2 tsp"
+      ],
+      "prep_time": "20 mins (+ soaking)",
+      "cook_time": "30–40 mins",
+      "total_time": "50 mins",
+      "serves": "A jar",
+      "procedure": [
+        "Make sugar syrup to one-thread; add amla; cook on low till translucent and syrupy; finish with cardamom."
+      ],
+      "serving_suggestions": "Serve with farsan or as tonic.",
+      "context_tips": "Sterilize jars; syrup should cover fruit fully."
+    },
+    {
+      "id": "mirchi-cha-thecha-green-chili-crush",
+      "title": "Mirchi cha Thecha (Green Chili Crush)",
+      "title_marathi": "मिरचीचा ठेचा",
+      "category": "Preserves",
+      "ingredients": [
+        "Green chilies – 150 g",
+        "Garlic – 8–10 cloves",
+        "Peanuts – 2 tbsp (optional)",
+        "Salt – to taste",
+        "Oil – 2 tsp"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "0 mins",
+      "total_time": "10 mins",
+      "serves": "A small bowl",
+      "procedure": [
+        "Pound chilies, garlic (and peanuts) coarsely; mix salt and oil."
+      ],
+      "serving_suggestions": "Serve with bhakri and curd.",
+      "context_tips": "Pounding releases juices; do not puree."
+    },
+    {
+      "id": "sukka-bombil-thecha-dry-fish-chili-crush",
+      "title": "Sukka Bombil Thecha (Dry Fish Chili Crush)",
+      "title_marathi": "सुक्या बोंबीलचा ठेचा",
+      "category": "Preserves",
+      "ingredients": [
+        "Dry bombil – 4, roasted and crumbled",
+        "Green chilies – 6–8",
+        "Garlic – 6 cloves",
+        "Lemon – 1",
+        "Salt"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "0 mins",
+      "total_time": "10 mins",
+      "serves": "A bowl",
+      "procedure": [
+        "Pound roasted bombil with chilies and garlic; season with salt and lemon."
+      ],
+      "serving_suggestions": "Serve with bhakri and onions.",
+      "context_tips": "Roast bombil to brittle before pounding."
+    },
+    {
+      "id": "chinch-gulachi-karamel-tamarind-jaggery-spread",
+      "title": "Chinch–Gulachi Karamel (Tamarind–Jaggery Spread)",
+      "title_marathi": "चिंच-गुळाची करमेल",
+      "category": "Preserves",
+      "ingredients": [
+        "Tamarind – 1/2 cup pulp",
+        "Jaggery – 3/4 cup",
+        "Ghee – 1 tsp",
+        "Cardamom – pinch"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "10–12 mins",
+      "total_time": "20 mins",
+      "serves": "A jar",
+      "procedure": [
+        "Cook tamarind and jaggery to a glossy, spreadable consistency; finish with ghee and cardamom."
+      ],
+      "serving_suggestions": "Serve on ghavan or as chutney.",
+      "context_tips": "Balance sweet–tart; store refrigerated."
+    },
+    {
+      "id": "shevla-chi-bhaji-dragon-stalk-yam",
+      "title": "Shevla Chi Bhaji (Dragon-stalk Yam)",
+      "title_marathi": "शेवळ्याची भाजी",
+      "category": "Seasonal",
+      "ingredients": [
+        "Shevla stalk – 300 g, chopped",
+        "Onion – 1, chopped",
+        "Garlic – 5 cloves",
+        "Coconut – 1/4 cup",
+        "Turmeric – 1/4 tsp",
+        "Chili powder – 1 tsp",
+        "Oil – 1.5 tbsp",
+        "Salt"
+      ],
+      "prep_time": "20 mins (prep/clean)",
+      "cook_time": "15–18 mins",
+      "total_time": "35 mins",
+      "serves": "4",
+      "procedure": [
+        "Rinse and prep shevla; blanch briefly to reduce astringency.",
+        "Sauté onion and garlic; add shevla, spices, salt; cook covered till tender.",
+        "Finish with grated coconut."
+      ],
+      "serving_suggestions": "Serve with bhakri.",
+      "context_tips": "Use gloves if sensitive; blanching tames itch."
+    },
+    {
+      "id": "alambi-rassa-wild-mushroom-curry",
+      "title": "Alambi Rassa (Wild Mushroom Curry)",
+      "title_marathi": "आळंबी रस्सा",
+      "category": "Seasonal",
+      "ingredients": [
+        "Wild monsoon mushrooms – 400 g",
+        "Onion – 2, sliced",
+        "Coconut – 1/2 cup",
+        "Coriander seeds – 2 tsp",
+        "Cumin – 1 tsp",
+        "Garlic – 5 cloves",
+        "Red chilies – 3–4",
+        "Turmeric – 1/2 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "15 mins",
+      "cook_time": "20 mins",
+      "total_time": "35 mins",
+      "serves": "4",
+      "procedure": [
+        "Grind coconut-coriander-cumin-garlic-chilies to paste.",
+        "Brown onions; add paste; roast till aromatic.",
+        "Add mushrooms and water; simmer 8–10 mins; season."
+      ],
+      "serving_suggestions": "Serve with rice or bhakri.",
+      "context_tips": "Clean wild mushrooms thoroughly; avoid overcooking."
+    },
+    {
+      "id": "fanasachi-bhaji-raw-jackfruit",
+      "title": "Fanasachi Bhaji (Raw Jackfruit)",
+      "title_marathi": "फणसाची भाजी",
+      "category": "Seasonal",
+      "ingredients": [
+        "Raw jackfruit – 600 g, cubes (oiled knife)",
+        "Onion – 1, sliced",
+        "Garlic – 5 cloves",
+        "Turmeric – 1/2 tsp",
+        "Chili powder – 1 tsp",
+        "Goda masala – 1 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "25 mins (prep)",
+      "cook_time": "25–30 mins",
+      "total_time": "50 mins",
+      "serves": "4",
+      "procedure": [
+        "Oil hands and knife; cube jackfruit; pressure cook 1–2 whistles.",
+        "Sauté onion and garlic; add spices, then jackfruit; stir-fry.",
+        "Moisten as needed; finish with goda masala."
+      ],
+      "serving_suggestions": "Serve with chapati/bhakri.",
+      "context_tips": "Oil prevents sap sticking; avoid overcooking."
+    },
+    {
+      "id": "takla-chi-bhaji-cassia-tora-greens",
+      "title": "Takla Chi Bhaji (Cassia Tora Greens)",
+      "title_marathi": "टकळ्याची भाजी",
+      "category": "Seasonal",
+      "ingredients": [
+        "Takla leaves – 300 g, cleaned",
+        "Onion – 1",
+        "Garlic – 4 cloves",
+        "Chili powder – 1 tsp",
+        "Turmeric – 1/4 tsp",
+        "Oil – 1.5 tbsp",
+        "Salt"
+      ],
+      "prep_time": "15 mins",
+      "cook_time": "10–12 mins",
+      "total_time": "25 mins",
+      "serves": "3–4",
+      "procedure": [
+        "Sauté onion and garlic; add greens; cook till wilted; season with spices and salt."
+      ],
+      "serving_suggestions": "Serve with bhakri or rice.",
+      "context_tips": "Slight bitterness is characteristic; balance with chili and garlic."
+    },
+    {
+      "id": "solkadhi-kokum-coconut-digestif",
+      "title": "Solkadhi (Kokum–Coconut Digestif)",
+      "title_marathi": "सोलकढी",
+      "category": "Seasonal",
+      "ingredients": [
+        "Dried kokum – 8–10 petals",
+        "Thick coconut milk – 1 cup",
+        "Thin coconut milk/water – 2 cups",
+        "Green chili – 1, slit",
+        "Garlic – 2 cloves (optional)",
+        "Cumin powder – 1/4 tsp",
+        "Salt"
+      ],
+      "prep_time": "20 mins (soak kokum)",
+      "cook_time": "0 mins (no cook)",
+      "total_time": "20 mins",
+      "serves": "4–5 glasses",
+      "procedure": [
+        "Soak kokum in warm water 15–20 mins; squeeze to extract.",
+        "Blend coconut milk with kokum extract, chili, garlic (optional), cumin, and salt; strain."
+      ],
+      "serving_suggestions": "Serve chilled with seafood meals.",
+      "context_tips": "Do not boil; color turns dull. Adjust tartness with kokum."
+    },
+    {
+      "id": "naralachi-kheer-tender-coconut-pudding",
+      "title": "Naralachi Kheer (Tender Coconut Pudding)",
+      "title_marathi": "नारळाची खीर",
+      "category": "Seasonal",
+      "ingredients": [
+        "Tender coconut meat – 1 cup, chopped",
+        "Tender coconut water – 1 cup",
+        "Milk – 2 cups",
+        "Sugar or jaggery – 1/3–1/2 cup",
+        "Cardamom – 1/2 tsp"
+      ],
+      "prep_time": "10 mins",
+      "cook_time": "15–18 mins",
+      "total_time": "25 mins",
+      "serves": "4",
+      "procedure": [
+        "Simmer milk with sugar/jaggery to slightly thick; cool to warm; stir in coconut water and meat; add cardamom; chill."
+      ],
+      "serving_suggestions": "Serve chilled on Sharad Purnima nights.",
+      "context_tips": "Avoid boiling after adding tender coconut—curdles."
+    },
+    {
+      "id": "ukhana-warm-jowar-beverage",
+      "title": "Ukhana (Warm Jowar Beverage)",
+      "title_marathi": "उखाणा",
+      "category": "Seasonal",
+      "ingredients": [
+        "Jowar flour – 2 tbsp",
+        "Water – 2 cups",
+        "Jaggery – 2–3 tbsp",
+        "Ghee – 1 tsp",
+        "Cardamom – pinch"
+      ],
+      "prep_time": "5 mins",
+      "cook_time": "8–10 mins",
+      "total_time": "13 mins",
+      "serves": "2–3",
+      "procedure": [
+        "Whisk jowar in water lump-free; cook, stirring till glossy; sweeten with jaggery and finish with ghee & cardamom."
+      ],
+      "serving_suggestions": "Serve warm in winters and weddings.",
+      "context_tips": "Constant stirring prevents lumps."
+    },
+    {
+      "id": "ukadiche-modak-steamed-rice-modak",
+      "title": "Ukadiche Modak (Steamed Rice Modak)",
+      "title_marathi": "उकडीचे मोदक",
+      "category": "Festive",
+      "ingredients": [
+        "Rice flour – 2 cups",
+        "Water – 2 cups",
+        "Ghee – 1 tsp",
+        "Salt – pinch",
+        "Filling: Fresh coconut – 2 cups; Jaggery – 1.5 cups; Cardamom – 1/2 tsp; Nutmeg – pinch"
+      ],
+      "prep_time": "30 mins",
+      "cook_time": "25–30 mins (steaming)",
+      "total_time": "55 mins",
+      "serves": "15–18 modaks",
+      "procedure": [
+        "Cook filling: melt jaggery with coconut till moist and glossy; add cardamom.",
+        "Boil water with salt and ghee; add rice flour; cover; rest 5 mins.",
+        "Knead warm dough smooth; make cups; fill; pleat and seal.",
+        "Steam 12–15 mins till shiny."
+      ],
+      "serving_suggestions": "Serve with ghee.",
+      "context_tips": "Knead while warm; keep dough covered to prevent cracking."
+    },
+    {
+      "id": "anarsa-rice-jaggery-fritters",
+      "title": "Anarsa (Rice–Jaggery Fritters)",
+      "title_marathi": "अर्शे/अनर्से",
+      "category": "Festive",
+      "ingredients": [
+        "Soaked rice (3 days) – 2 cups, dried and ground",
+        "Jaggery – 1.5 cups",
+        "Poppy seeds – 1/2 cup",
+        "Ghee/oil – for shallow fry"
+      ],
+      "prep_time": "3 days (soak) + 30 mins",
+      "cook_time": "20–25 mins",
+      "total_time": "23 mins",
+      "serves": "20–24",
+      "procedure": [
+        "Make dough by mixing rice flour with warm jaggery syrup; rest overnight.",
+        "Roll small discs; coat one side in poppy seeds; fry poppy side up till golden."
+      ],
+      "serving_suggestions": "Serve in Diwali faral.",
+      "context_tips": "Syrup should be soft-ball; too hard makes cracks."
+    },
+    {
+      "id": "karanji-coconut-hand-pie",
+      "title": "Karanji (Coconut Hand Pie)",
+      "title_marathi": "करंजी",
+      "category": "Festive",
+      "ingredients": [
+        "Maida – 2 cups",
+        "Ghee – 3 tbsp (moin)",
+        "Salt – pinch",
+        "Water – as needed",
+        "Filling: Dry coconut – 1.5 cups; Sugar – 3/4 cup; Cardamom – 1/2 tsp; Poppy seeds – 2 tbsp",
+        "Oil – for frying"
+      ],
+      "prep_time": "40 mins",
+      "cook_time": "25–30 mins",
+      "total_time": "65 mins",
+      "serves": "20",
+      "procedure": [
+        "Knead stiff dough with moin; rest 20 mins.",
+        "Cook filling briefly to combine.",
+        "Roll discs; fill; crimp; fry on medium till crisp."
+      ],
+      "serving_suggestions": "Serve in Diwali platters.",
+      "context_tips": "Seal edges well to avoid leaks."
+    },
+    {
+      "id": "rava-ladoo",
+      "title": "Rava Ladoo",
+      "title_marathi": "रवा लाडू",
+      "category": "Festive",
+      "ingredients": [
+        "Rava – 2 cups",
+        "Sugar – 1.5 cups (powdered)",
+        "Ghee – 1/2 cup",
+        "Milk – 3–4 tbsp",
+        "Cardamom – 1/2 tsp"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "10–12 mins",
+      "total_time": "30 mins",
+      "serves": "20",
+      "procedure": [
+        "Roast rava in ghee till fragrant; cool slightly; mix sugar and cardamom.",
+        "Sprinkle warm milk; bind laddoos."
+      ],
+      "serving_suggestions": "Serve as faral sweet.",
+      "context_tips": "Do not brown rava; aim for sandy texture."
+    },
+    {
+      "id": "besan-ladoo",
+      "title": "Besan Ladoo",
+      "title_marathi": "बेसन लाडू",
+      "category": "Festive",
+      "ingredients": [
+        "Besan – 2 cups",
+        "Ghee – 1/2–3/4 cup",
+        "Sugar – 1–1.25 cups (powdered)",
+        "Cardamom – 1/2 tsp"
+      ],
+      "prep_time": "15 mins",
+      "cook_time": "20–25 mins",
+      "total_time": "35 mins",
+      "serves": "18–20",
+      "procedure": [
+        "Roast besan in ghee on low till nutty and deep golden; cool; mix sugar and cardamom; shape laddoos."
+      ],
+      "serving_suggestions": "Serve in festive boxes.",
+      "context_tips": "Roast patiently; raw besan tastes chalky."
+    },
+    {
+      "id": "ravali-rice-rava-cake",
+      "title": "Ravali (Rice–Rava Cake)",
+      "title_marathi": "रावली",
+      "category": "Festive",
+      "ingredients": [
+        "Rice – 1 cup (soaked, ground)",
+        "Rava – 1 cup",
+        "Jaggery – 1.25 cups",
+        "Coconut – 1 cup",
+        "Cardamom – 1/2 tsp"
+      ],
+      "prep_time": "30 mins",
+      "cook_time": "30–35 mins (steam/bake)",
+      "total_time": "60 mins",
+      "serves": "1 tray",
+      "procedure": [
+        "Combine batters with jaggery and coconut; rest 20 mins.",
+        "Steam or bake till set."
+      ],
+      "serving_suggestions": "Serve for Diwali/New Year.",
+      "context_tips": "Do not overbake; should remain moist."
+    },
+    {
+      "id": "tavali-cucumber-rice-sweet-in-turmeric-leaves",
+      "title": "Tavali (Cucumber–Rice Sweet in Turmeric Leaves)",
+      "title_marathi": "टवळी/तांबळी",
+      "category": "Festive",
+      "ingredients": [
+        "Grated cucumber – 2 cups (squeeze water)",
+        "Rice semolina – 2 cups",
+        "Jaggery – 1.5 cups",
+        "Coconut – 1 cup",
+        "Cardamom – 1/2 tsp",
+        "Turmeric leaves – 8–10"
+      ],
+      "prep_time": "30 mins",
+      "cook_time": "20–25 mins (steam)",
+      "total_time": "50 mins",
+      "serves": "10 parcels",
+      "procedure": [
+        "Mix all ingredients to thick batter; smear on turmeric leaves; fold; steam till set; unwrap to serve."
+      ],
+      "serving_suggestions": "Serve warm with ghee.",
+      "context_tips": "Turmeric leaves impart signature aroma; squeeze cucumber to avoid sogginess."
+    },
+    {
+      "id": "aliv-ladoo-garden-cress-seeds",
+      "title": "Aliv Ladoo (Garden Cress Seeds)",
+      "title_marathi": "अळिव लाडू",
+      "category": "Festive",
+      "ingredients": [
+        "Aliv seeds – 1 cup (soaked 4 hrs)",
+        "Jaggery – 1 cup",
+        "Coconut – 1/2 cup",
+        "Ghee – 2 tbsp",
+        "Cardamom – 1/2 tsp"
+      ],
+      "prep_time": "4 hrs (soak)",
+      "cook_time": "10–12 mins",
+      "total_time": "10 mins",
+      "serves": "18–20",
+      "procedure": [
+        "Melt jaggery; add soaked aliv and coconut; cook briefly; finish with ghee and cardamom; shape laddoos when warm."
+      ],
+      "serving_suggestions": "Serve in winter; nourishing sweet.",
+      "context_tips": "Do not overcook—seeds toughen."
+    },
+    {
+      "id": "dashmi-bhaji-ten-vegetable-curry",
+      "title": "Dashmi Bhaji (Ten-Vegetable Curry)",
+      "title_marathi": "दसमी भाजी",
+      "category": "Festive",
+      "ingredients": [
+        "Ten mixed veggies (gourd, beans, peas, brinjal, etc.) – 6–8 cups",
+        "Onion – 1",
+        "Coconut – 1/2 cup",
+        "Spice mix (coriander, cumin, chilies) – 2 tbsp",
+        "Turmeric – 1/2 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "30 mins",
+      "cook_time": "30–35 mins",
+      "total_time": "60 mins",
+      "serves": "6",
+      "procedure": [
+        "Grind coconut & spices; sauté onion; add vegetables; stir in masala; add water; simmer till tender; season."
+      ],
+      "serving_suggestions": "Serve with puri/bhakri.",
+      "context_tips": "Cut veggies similar size for even cooking."
+    },
+    {
+      "id": "vaala-che-mutke-steamed-field-bean-dumplings",
+      "title": "Vaala Che Mutke (Steamed Field-Bean Dumplings)",
+      "title_marathi": "वालाचे मुटके",
+      "category": "Festive",
+      "ingredients": [
+        "Sprouted vaal – 2 cups (coarsely ground)",
+        "Rice rawa – 1/2 cup",
+        "Onion – 1, chopped",
+        "Green chilies – 2",
+        "Coriander – handful",
+        "Turmeric – 1/4 tsp",
+        "Salt"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "20–25 mins (steam)",
+      "total_time": "40 mins",
+      "serves": "15–18",
+      "procedure": [
+        "Mix all ingredients to thick batter; shape dumplings; steam till firm."
+      ],
+      "serving_suggestions": "Serve with chutney or ghee.",
+      "context_tips": "Grease steamer plate to prevent sticking."
+    },
+    {
+      "id": "birade-kadve-vaal-curry-for-ganesh",
+      "title": "Birade (Kadve Vaal Curry for Ganesh)",
+      "title_marathi": "बिरडे",
+      "category": "Festive",
+      "ingredients": [
+        "Kadve vaal – 2 cups (soaked, sprouted, peeled)",
+        "Coconut – 1/2 cup",
+        "Goda masala – 1–2 tsp",
+        "Tamarind – 1 tsp",
+        "Jaggery – 1 tsp",
+        "Oil – 2 tbsp",
+        "Salt"
+      ],
+      "prep_time": "12 hrs (sprout)",
+      "cook_time": "25 mins",
+      "total_time": "25 mins",
+      "serves": "4",
+      "procedure": [
+        "Cook sprouts; make coconut masala; simmer together with goda masala, tamarind, jaggery; season."
+      ],
+      "serving_suggestions": "Serve at Ganesh feasts with rice.",
+      "context_tips": "Peeling skins gives classic mouthfeel."
+    },
+    {
+      "id": "kombdi-vade-chicken-curry-with-rice-vade",
+      "title": "Kombdi Vade (Chicken Curry with Rice Vade)",
+      "title_marathi": "कोम्बडी वडे",
+      "category": "Special Events",
+      "ingredients": [
+        "Chicken curry – as per Kombdi Kalwan",
+        "Rice vade: Rice flour – 2 cups; Hot water – ~2 cups; Salt; Oil for fry"
+      ],
+      "prep_time": "45 mins",
+      "cook_time": "45 mins",
+      "total_time": "90 mins",
+      "serves": "6",
+      "procedure": [
+        "Make chicken curry (see Kombdi Kalwan).",
+        "For vade, make hot dough from scalded rice flour; knead; pat small discs; deep-fry till puffed and crisp."
+      ],
+      "serving_suggestions": "Serve curry with hot vade, onion-lemon salad.",
+      "context_tips": "Fry vade on medium heat to cook through without darkening."
+    },
+    {
+      "id": "bhujing-smoky-roasted-chicken-with-poha",
+      "title": "Bhujing (Smoky Roasted Chicken with Poha)",
+      "title_marathi": "भुजिंग",
+      "category": "Special Events",
+      "ingredients": [
+        "Bone-in chicken – 1 kg",
+        "Thick poha – 3 cups",
+        "Onion – 2, sliced",
+        "Green chilies – 4",
+        "Ginger-garlic paste – 2 tbsp",
+        "Yogurt – 1/2 cup",
+        "Spice mix (chili, coriander, cumin) – 2 tbsp",
+        "Lemon – 1",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "prep_time": "30 mins (marination)",
+      "cook_time": "35–45 mins (roast)",
+      "total_time": "65 mins",
+      "serves": "6–7",
+      "procedure": [
+        "Marinate chicken with yogurt, spices, ginger-garlic, salt; rest 30 mins.",
+        "Roast over charcoal/oven till smoky and cooked.",
+        "Toss hot roasted chicken with poha, onion, chilies, lemon, and oil; the heat softens poha."
+      ],
+      "serving_suggestions": "Serve immediately as a community feast item.",
+      "context_tips": "Toss while chicken is hot so poha steams and absorbs flavors."
+    },
+    {
+      "id": "mutton-sukka-dry-masala-goat",
+      "title": "Mutton Sukka (Dry Masala Goat)",
+      "title_marathi": "मटण सुक्का",
+      "category": "Special Events",
+      "ingredients": [
+        "Goat – 800 g",
+        "Onion – 2, sliced",
+        "Roasted coconut – 1/2 cup",
+        "Spice mix (coriander, cumin, pepper, cloves, cinnamon) – 2 tbsp",
+        "Turmeric – 1/2 tsp",
+        "Oil – 3 tbsp",
+        "Salt"
+      ],
+      "prep_time": "20 mins",
+      "cook_time": "45–60 mins",
+      "total_time": "65 mins",
+      "serves": "5–6",
+      "procedure": [
+        "Cook mutton with salt and turmeric till tender; dry out excess stock.",
+        "Roast spice mix and coconut; grind coarse.",
+        "Bhunao mutton with masala till dry and glossy."
+      ],
+      "serving_suggestions": "Serve with vade/bhakri and lemon.",
+      "context_tips": "Final roasting on low heat gives the signature sukka shine."
+    }
+  ]
+}

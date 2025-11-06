@@ -8,89 +8,98 @@ All colors MUST be HSL.
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
+    /* Heritage Vadval Color Palette */
+    --background: 45 60% 93%; /* Coconut white */
+    --foreground: 25 44% 23%; /* Deep soil brown */
 
-    --card: 0 0% 100%;
-    --card-foreground: 222.2 84% 4.9%;
+    --card: 45 55% 96%;
+    --card-foreground: 25 44% 23%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 222.2 84% 4.9%;
+    --popover: 45 60% 93%;
+    --popover-foreground: 25 44% 23%;
 
-    --primary: 222.2 47.4% 11.2%;
-    --primary-foreground: 210 40% 98%;
+    --primary: 25 44% 33%; /* Soil brown */
+    --primary-foreground: 45 60% 93%;
 
-    --secondary: 210 40% 96.1%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --secondary: 82 57% 35%; /* Sea green */
+    --secondary-foreground: 45 60% 93%;
 
-    --muted: 210 40% 96.1%;
-    --muted-foreground: 215.4 16.3% 46.9%;
+    --muted: 45 40% 85%;
+    --muted-foreground: 25 30% 45%;
 
-    --accent: 210 40% 96.1%;
-    --accent-foreground: 222.2 47.4% 11.2%;
+    --accent: 45 95% 45%; /* Turmeric yellow */
+    --accent-foreground: 25 44% 23%;
 
-    --destructive: 0 84.2% 60.2%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 15 68% 45%; /* Terracotta red */
+    --destructive-foreground: 45 60% 93%;
 
-    --border: 214.3 31.8% 91.4%;
-    --input: 214.3 31.8% 91.4%;
-    --ring: 222.2 84% 4.9%;
+    --border: 45 30% 80%;
+    --input: 45 30% 85%;
+    --ring: 25 44% 33%;
 
     --radius: 0.5rem;
 
-    --sidebar-background: 0 0% 98%;
-
-    --sidebar-foreground: 240 5.3% 26.1%;
-
-    --sidebar-primary: 240 5.9% 10%;
-
-    --sidebar-primary-foreground: 0 0% 98%;
-
-    --sidebar-accent: 240 4.8% 95.9%;
-
-    --sidebar-accent-foreground: 240 5.9% 10%;
-
-    --sidebar-border: 220 13% 91%;
-
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    /* Custom heritage tokens */
+    --heritage-soil: 25 44% 33%;
+    --heritage-coconut: 45 60% 93%;
+    --heritage-sea: 82 57% 35%;
+    --heritage-turmeric: 45 95% 45%;
+    --heritage-terracotta: 15 68% 45%;
+    --heritage-clay: 20 35% 55%;
+    
+    --sidebar-background: 45 55% 96%;
+    --sidebar-foreground: 25 44% 23%;
+    --sidebar-primary: 25 44% 33%;
+    --sidebar-primary-foreground: 45 60% 93%;
+    --sidebar-accent: 45 40% 85%;
+    --sidebar-accent-foreground: 25 44% 23%;
+    --sidebar-border: 45 30% 80%;
+    --sidebar-ring: 82 57% 35%;
   }
 
   .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
+    --background: 25 35% 12%; /* Dark soil */
+    --foreground: 45 60% 93%;
 
-    --card: 222.2 84% 4.9%;
-    --card-foreground: 210 40% 98%;
+    --card: 25 30% 18%;
+    --card-foreground: 45 60% 93%;
 
-    --popover: 222.2 84% 4.9%;
-    --popover-foreground: 210 40% 98%;
+    --popover: 25 30% 18%;
+    --popover-foreground: 45 60% 93%;
 
-    --primary: 210 40% 98%;
-    --primary-foreground: 222.2 47.4% 11.2%;
+    --primary: 45 95% 45%; /* Turmeric glow in dark */
+    --primary-foreground: 25 35% 12%;
 
-    --secondary: 217.2 32.6% 17.5%;
-    --secondary-foreground: 210 40% 98%;
+    --secondary: 82 45% 28%; /* Deep sea green */
+    --secondary-foreground: 45 60% 93%;
 
-    --muted: 217.2 32.6% 17.5%;
-    --muted-foreground: 215 20.2% 65.1%;
+    --muted: 25 25% 25%;
+    --muted-foreground: 45 30% 65%;
 
-    --accent: 217.2 32.6% 17.5%;
-    --accent-foreground: 210 40% 98%;
+    --accent: 15 68% 45%;
+    --accent-foreground: 45 60% 93%;
 
-    --destructive: 0 62.8% 30.6%;
-    --destructive-foreground: 210 40% 98%;
+    --destructive: 15 75% 35%;
+    --destructive-foreground: 45 60% 93%;
 
-    --border: 217.2 32.6% 17.5%;
-    --input: 217.2 32.6% 17.5%;
-    --ring: 212.7 26.8% 83.9%;
-    --sidebar-background: 240 5.9% 10%;
-    --sidebar-foreground: 240 4.8% 95.9%;
-    --sidebar-primary: 224.3 76.3% 48%;
-    --sidebar-primary-foreground: 0 0% 100%;
-    --sidebar-accent: 240 3.7% 15.9%;
-    --sidebar-accent-foreground: 240 4.8% 95.9%;
-    --sidebar-border: 240 3.7% 15.9%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --border: 25 25% 25%;
+    --input: 25 25% 25%;
+    --ring: 45 95% 45%;
+    
+    --heritage-soil: 25 35% 25%;
+    --heritage-coconut: 45 40% 85%;
+    --heritage-sea: 82 45% 28%;
+    --heritage-turmeric: 45 95% 50%;
+    --heritage-terracotta: 15 68% 40%;
+    
+    --sidebar-background: 25 30% 18%;
+    --sidebar-foreground: 45 60% 93%;
+    --sidebar-primary: 45 95% 45%;
+    --sidebar-primary-foreground: 25 35% 12%;
+    --sidebar-accent: 25 25% 25%;
+    --sidebar-accent-foreground: 45 60% 93%;
+    --sidebar-border: 25 25% 25%;
+    --sidebar-ring: 45 95% 45%;
   }
 }
 

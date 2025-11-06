@@ -1,0 +1,40 @@
+{
+  "page_id": "landing",
+  "title": "Ruchkar Vadval – Coastal Heritage on a Plate",
+  "subtitle": "Stories and Flavours from Saphale, Golwhad, and Vasai–Virar",
+  "hero_image": "/images/vadval_coastline.jpg",
+  "content": {
+    "intro": "Ruchkar Vadval is a tribute to the people of the northern Konkan — farmers, fishers, toddy-tappers, and salt-pan workers whose lives follow the tides. Their food tells a history that was never written but always remembered: in stone mortars, in the smoke of firewood, and in the songs sung while husking rice on moonlit verandas.",
+    "section1": {
+      "heading": "Roots Beneath the Waves",
+      "text": "Centuries ago the Vadvals settled along the creeks between Kelwa, Saphale, and Vasai. They grew rice in the khar patti (saline fields) and drew sweet water from laterite wells. When monsoon flooded the paddies, they turned to the sea — casting conical nets called vala and drying the catch on coconut leaves. Their dual livelihood shaped a cuisine that joins land and water: field-bean curries rich with coconut, fish marinated in toddy vinegar, rice breads roasted on palm leaf. Each dish still carries the salt of that soil."
+    },
+    "section2": {
+      "heading": "Folklore of Fire and Feast",
+      "text": "In Golwhad, an old story is told of Mauli Aai, the guardian goddess of the hearth. Villagers say she taught women to cook with the rhythm of the waves — one stir for each breaker that hits the shore. On full-moon nights, children once gathered near the temple pond to hear tales of spirits who lived inside the grinding stones and cried when someone forgot to wash them after use. Food and faith were inseparable: before eating, a morsel of rice mixed with ghee was always placed on a banana leaf for the ancestors. Even today, weddings begin with a halad-chura meal — rice mixed with turmeric and curd — symbolizing purity and new beginnings."
+    },
+    "section3": {
+      "heading": "From Saphale’s Fields to Vasai’s Ports",
+      "text": "Saphale’s inland hamlets are known for their fertile red soil and toddy palms. Here, families still ferment rice batters with palm toddy to make feather-soft amboli. The old Portuguese and Maratha trade routes that ran through Vasai brought new tastes — vinegar, cashews, and dried chilies — which merged seamlessly with local traditions. Vasai–Virar kitchens turned these influences into subtle art: teprat spiced with clove and nutmeg, kolambi bhaat scented with cinnamon, and jaggery-soaked sweets that echo the Indo-Portuguese confections once baked in the fort town."
+    },
+    "section4": {
+      "heading": "The Village Calendar on a Plate",
+      "text": "Each month has its flavour. In the heat of Chaitra, women of Golwhad sun-dry jawla shrimp and make chutneys pounded with garlic and tamarind. Ashadh brings shevla stalks sprouting in flooded fields. During Shravan, no meat or fish is eaten; meals centre on lentils, gourds, and coconut. Come Kartik, fishermen offer the first catch to the sea before setting sail — a ritual called Samudra pujan. At Diwali, every home in Vasai smells of anarsa frying in ghee, while children run through courtyards carrying bamboo lamps made from dried supari leaves."
+    },
+    "section5": {
+      "heading": "Voices from the Courtyard",
+      "text": "Grandmothers remember when the village chulha was the heart of the home — three stones, one fire, and stories for company. The first flame was always lit with a prayer: 'Agni devta, raksha kar', asking the fire to cook but never scorch. They say a true cook knows by sound — the hiss of water hitting hot iron, the pop of mustard in oil, the sigh of rice as it steams. In these sounds lived discipline and affection both. Meals were served on banana or patravali leaves; guests were fed first, because hospitality was wealth."
+    },
+    "section6": {
+      "heading": "Reviving the Forgotten",
+      "text": "Ruchkar Vadval collects what time tried to scatter — recipes scribbled on the back of almanacs, oral instructions recalled at the grinding stone, flavours nearly lost to gas stoves. Each recipe here is paired with its memory: the song of pounding metkut, the aroma of kokum drying on rooftops, the sight of boats returning under a crimson sky. To cook these dishes is to keep the community alive — to remind ourselves that heritage is not a museum but a meal still warm."
+    },
+    "closing": "This archive belongs to every kitchen that still smells of coconut oil and sea breeze. It belongs to the people of Saphale, Golwhad, and Vasai–Virar — and to anyone who believes that food carries ancestry better than any document. Welcome to Ruchkar Vadval, where the coast remembers through taste."
+  },
+  "credits": {
+    "curated_by": "Community of Bordi–Vasai Vadvals",
+    "compiled_by": "Ruchkar Vadval Heritage Project",
+    "supported_by": "Elders, historians, and home cooks from Saphale, Golwhad, Vasai and Virar",
+    "field_notes_from": "Oral interviews conducted between 2020 and 2024 with village elders and fisher families along the Palghar coast."
+  }
+}
