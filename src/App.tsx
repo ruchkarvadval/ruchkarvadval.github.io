@@ -8,6 +8,7 @@ import Index from "./pages/Index";
 import Recipes from "./pages/Recipes";
 import Heritage from "./pages/Heritage";
 import RecipeDetail from "./pages/RecipeDetail";
+import Contribute from "./pages/Contribute";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -24,6 +25,7 @@ const App = () => (
             <Route path="/recipes" element={<Recipes />} />
             <Route path="/heritage" element={<Heritage />} />
             <Route path="/recipe/:id" element={<RecipeDetail />} />
+            <Route path="/contribute" element={<Contribute />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
           </Routes>

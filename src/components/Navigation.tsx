@@ -29,6 +29,9 @@ export function Navigation() {
             <Link to="/heritage" className="font-noto hover:text-primary transition-colors">
               {t('heritage')}
             </Link>
+            <Link to="/contribute" className="font-noto hover:text-primary transition-colors">
+              {language === 'mr' ? 'योगदान द्या' : 'Contribute'}
+            </Link>
             
             {/* Language Toggle */}
             <div className="flex items-center space-x-2 border border-border rounded-md p-1">
@@ -83,6 +86,13 @@ export function Navigation() {
               onClick={() => setMobileMenuOpen(false)}
             >
               {t('heritage')}
+            </Link>
+            <Link
+              to="/contribute"
+              className="block font-noto hover:text-primary transition-colors"
+              onClick={() => setMobileMenuOpen(false)}
+            >
+              {language === 'mr' ? 'योगदान द्या' : 'Contribute'}
             </Link>
             
             <div className="flex items-center space-x-2 pt-2">

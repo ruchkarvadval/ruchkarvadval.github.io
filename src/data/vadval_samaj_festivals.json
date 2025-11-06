@@ -1,0 +1,65 @@
+{
+  "vadvalSamajFestivals": [
+    {
+      "categoryName": "Festivals Tied to Agriculture and the Sea",
+      "description": "These festivals are closely linked to the seasonal and occupational life of the coastal, agrarian Vadval community, reflecting their dual role as 'managers of fields' (Vadval) and a coastal society.",
+      "festivals": [
+        {
+          "name": "Narali Purnima (Coconut Day)",
+          "month": "July/August (Shravana Purnima)",
+          "focus": "Varuna (Sea God)",
+          "significance": "This festival is dedicated to **Samudra Devta** (Sea God). Coconuts, symbolizing health and prosperity, are offered as the purest form of tribute to the ocean. After this offering, fishermen officially **end the monsoon break**, paint and decorate their boats, repair nets, and formally launch their new season. The preparation of **Naraali Bhaat** (coconut rice) is a customary part of the feast.",
+          "significanceMarathi": "हा सण **वरुण देवतेला** (समुद्र देवतेला) समर्पित आहे. नारळ (आरोग्य आणि समृद्धीचे प्रतीक) समुद्राला अर्पण केले जातात, कारण नारळातील पाणी शुद्ध मानले जाते. या अर्पणानंतर, मच्छीमार अधिकृतपणे **मान्सूनची सुट्टी संपवतात**, आपल्या बोटी रंगवून सजवतात, जाळी दुरुस्त करतात आणि मासेमारीच्या नवीन हंगामाची सुरुवात करतात. **नारळी भात** (खोबऱ्याचा भात) तयार करणे ही या सणावेळी केली जाणारी एक खास प्रथा आहे."
+        },
+        {
+          "name": "Pola (Festival of Bulls/Cattle)",
+          "month": "August/September (Shravana Amavasya)",
+          "focus": "Bullocks/Farm Animals",
+          "significance": "Celebrated on **Shravana Amavasya**, this day expresses deep respect for the bullocks, which are vital for plowing (*vadis*). The animals are given a complete rest, washed, and decorated with bells, colored ropes, and painted horns. Women perform *aarti* for the bullocks, treating them as honored family members. Those without cattle worship **clay bullock idols**.",
+          "significanceMarathi": "हा सण **श्रावण अमावस्येच्या** दिवशी साजरा केला जातो आणि शेतीच्या कामात (वाड्यांमध्ये) महत्त्वाची भूमिका बजावणाऱ्या बैलांप्रति कृतज्ञता व्यक्त करतो. बैलांना संपूर्ण विश्रांती दिली जाते, त्यांना स्वच्छ करून घंटे, रंगीत दोऱ्या आणि रंगवलेल्या शिंगांनी सजवले जाते. महिला बैलांची **ओवाळणी** (आरती) करतात, त्यांना कुटुंबातील सन्माननीय सदस्य मानतात. ज्यांच्याकडे बैल नसतात, ते **मातीच्या बैलांच्या मूर्तींची** पूजा करतात."
+        },
+        {
+          "name": "Makarsankranti (Kharif Harvest)",
+          "month": "January 14/15",
+          "focus": "Surya (Sun God) and Harvest",
+          "significance": "This festival marks the sun's auspicious northward journey, known as **Uttarayan**, and celebrates the initial winter harvest. Along with distributing **Tilgul** ('Take the Tilgul, and speak sweet words'), married women organize **Haldi-Kumkum** ceremonies, exchanging *vayaan* (small gifts). **Gool Poli** (flatbread stuffed with jaggery) is a major festive dish, and kite flying is a popular communal activity.",
+          "significanceMarathi": "या दिवशी सूर्याचा शुभ **उत्तरायण** सुरू होतो आणि प्रारंभिक रब्बी पिकांचा हंगाम साजरा केला जातो. **तिळगुळ** ('तिळगुळ घ्या, आणि गोड गोड बोला') वाटण्यासोबतच, विवाहित महिला **हळदी-कुंकू** समारंभ आयोजित करतात, ज्यात *वहाण* (लहान भेटवस्तू) दिली जाते. **गूळ पोळी** हा महत्त्वाचा पदार्थ आहे आणि पतंग उडवणे ही एक लोकप्रिय सामुदायिक प्रथा आहे."
+        }
+      ]
+    },
+    {
+      "categoryName": "General Maharashtrian Hindu Festivals",
+      "description": "Major festivals observed by Hindus across Maharashtra, often celebrated by the Vadval community with local coastal-belt traditions.",
+      "festivals": [
+        {
+          "name": "Ganesh Chaturthi",
+          "month": "August/September (Bhadrapada)",
+          "focus": "Lord Ganesha",
+          "significance": "A festival of massive scale in this region. The idol, traditionally made of eco-friendly clay (**Shadu Mati**), is welcomed through **Ganesh Sthapana** at an auspicious time. Daily worship includes chanting *mantras* and offering **Modak**. The celebration culminates in a communal *Visarjan* (immersion) after 1.5, 5, 7, or 10 days, signifying Ganesha's return to Mount Kailash.",
+          "significanceMarathi": "कोकण-ठाणे पट्ट्यात हा उत्सव मोठ्या प्रमाणावर साजरा होतो. गणपतीची मूर्ती सहसा **शाडू मातीची** (पर्यावरणपूरक माती) बनवलेली असते आणि शुभ मुहूर्तावर **गणेश स्थापना** करून तिचे स्वागत केले जाते. रोज मंत्रांचे पठण व **मोदकांचा** नैवेद्य असतो. १.५, ५, ७ किंवा १० दिवसांनी **विसर्जन** केले जाते, जे गणपतीचे कैलास पर्वतावर परतणे दर्शवते."
+        },
+        {
+          "name": "Gudi Padwa",
+          "month": "March/April (Chaitra Shukla Pratipada)",
+          "focus": "The Marathi New Year",
+          "significance": "This day is counted among the **Saade Teen Muhurt** (three-and-a-half most auspicious days) in the Marathi calendar. The **Gudi**—a symbol of victory—is raised early in the morning. The *Prasad* (offering) of neem leaves and jaggery is consumed first, symbolizing the acceptance of life's bitterness and sweetness. Large processions featuring traditional instruments like **Dhol-Tasha** are common.",
+          "significanceMarathi": "हा दिवस मराठी कॅलेंडरमधील **साडेतीन मुहूर्तांपैकी** एक मानला जातो. विजयाचे प्रतीक असलेली **गुढी** सकाळी लवकर उभारली जाते. कडू-गोड अनुभवांचे प्रतीक म्हणून कडूनिंब आणि गुळाचा **प्रसाद** प्रथम खाल्ला जातो. **ढोल-ताशा** या पारंपारिक वाद्यांच्या मिरवणुका काढल्या जातात, ज्या उत्साहाचे प्रदर्शन करतात."
+        },
+        {
+          "name": "Diwali/Deepawali",
+          "month": "October/November (Ashwin/Kartik)",
+          "focus": "Lakshmi, Light over Darkness",
+          "significance": "The festival is celebrated over five main days: *Dhanteras*, *Narak Chaturdashi* (oil bath), *Lakshmi Pujan* (main day), *Bali Pratipada*, and *Bhaubeej* (celebrating the bond between brother and sister). The preparation of **Faral** (sweet and savory snacks) begins weeks in advance, and exchanging these snacks with relatives is a core social custom.",
+          "significanceMarathi": "हा उत्सव पाच मुख्य दिवसांवर आधारित आहे: *धनत्रयोदशी*, *नरक चतुर्दशी* (अभ्यंगस्नान), *लक्ष्मी पूजन* (मुख्य दिवस), *बलिप्रतिपदा* आणि *भाऊबीज* (भाऊ-बहिणीच्या नात्याचा सण). दिवाळीच्या काही आठवड्यांपूर्वी **फराळाची** (गोड आणि खारट पदार्थ) तयारी सुरू होते आणि नातेवाईकांना भेटून फराळ देण्या-घेण्याची प्रथा हा सामाजिक विधी आहे."
+        },
+        {
+          "name": "Holi/Shimga",
+          "month": "February/March (Phalguna Purnima)",
+          "focus": "Holika Dahan, Spring",
+          "significance": "In the coastal belt, the festival is often referred to as **Shimga** or **Shimgo** and carries local variations. It often involves carrying a decorated wooden pole or deity image in a procession (*Palkhi*). The bonfire (**Holika Dahan**) is lit on Purnima (full moon), followed by the playing of colors on **Rang Panchami**. The Vadval community often has unique songs and dances associated with the *Shimga* celebrations.",
+          "significanceMarathi": "कोकण पट्ट्यात या सणाला **शिमगा** किंवा **शिमगो** म्हणतात. यात सजवलेली लाकडी काठी किंवा देवतेची मूर्ती **पालखीतून** घेऊन जाण्याची प्रथा असते. पौर्णिमेला **होळी दहन** (बोनFfire) केले जाते आणि दुसऱ्या दिवशी **रंगपंचमीला** रंगांनी खेळले जाते. वडवळ समाजात शिमग्याशी संबंधित खास गाणी आणि नृत्यांची परंपरा आढळते."
+        }
+      ]
+    }
+  ]
+}
