@@ -3,7 +3,7 @@
     {
       "id": "valache-dhapate-field-bean-flatbread",
       "title": "Valache Dhapate (Field Bean Flatbread)",
-      "title_marathi": "वाळाचे धापटे / धापटी",
+      "title_marathi": "वालाचे धापटे / धापटी",
       "category": "Breakfast",
       "ingredients": [
         "Jowar flour – 1 cup",
@@ -26,7 +26,7 @@
       "total_time": "35 mins",
       "serves": "4",
       "procedure": [
-        "Mix flours with vaal, onion, coriander, chilies, garlic, cumin, sesame, turmeric, chili powder, and salt.",
+        "Mix Jowar, Wheat and Besan flours with vaal, onion, coriander, chilies, garlic, cumin, sesame, turmeric, chili powder, and salt.",
         "Add water gradually to form a soft dough; knead with 1–2 tsp oil and rest 10–15 mins.",
         "Oil a banana leaf or plastic; pat a lemon-sized dough ball into a 5–6 inch round (medium thickness).",
         "Roast on a medium-hot tawa; flip when spots appear. Drizzle oil/ghee; cook both sides.",
@@ -120,8 +120,8 @@
       "context_tips": "Use thick poha; avoid over‑soaking. A dash of local vinegar is a regional twist."
     },
     {
-      "id": "nagli-pej-ambil-ragi-porridge-drink",
-      "title": "Nagli Pej / Ambil (Ragi Porridge Drink)",
+      "id": "nachani-pej-ambil-ragi-porridge-drink",
+      "title": "Nachani Pej / Ambil (Ragi Porridge Drink)",
       "title_marathi": "नाचणीची पेज / आंबिल",
       "category": "Breakfast",
       "ingredients": [
@@ -147,8 +147,8 @@
       "context_tips": "Constant stirring prevents lumps; fermentation improves digestibility."
     },
     {
-      "id": "god-ghavan-sweet-jaggery-crepe",
-      "title": "God Ghavan (Sweet Jaggery Crepe)",
+      "id": "goad-ghavan-sweet-jaggery-crepe",
+      "title": "Goad Ghavan (Sweet Jaggery Crepe)",
       "title_marathi": "गोड घावन",
       "category": "Breakfast",
       "ingredients": [
@@ -174,7 +174,7 @@
       "context_tips": "Slightly thicker than plain ghavan for the best texture."
     },
     {
-      "id": "sabudana-khichdi-sago-pilaf",
+      "id": "sabudana-khedi-sago-pilaf",
       "title": "Sabudana Khichdi (Sago Pilaf)",
       "title_marathi": "साबुदाणा खिचडी",
       "category": "Breakfast",
@@ -207,7 +207,7 @@
     {
       "id": "bharlela-paplet-stuffed-pomfret-in-banana-leaf",
       "title": "Bharlela Paplet (Stuffed Pomfret in Banana Leaf)",
-      "title_marathi": "भरलेला पापलेट",
+      "title_marathi": "भरलेल पापलेट",
       "category": "Seafood",
       "ingredients": [
         "Whole pomfrets – 2 (300–350 g each), cleaned",
@@ -262,7 +262,7 @@
     {
       "id": "varan-bhaat-plain-dal-with-steamed-rice",
       "title": "Varan–Bhaat (Plain Dal with Steamed Rice)",
-      "title_marathi": "वरन भात",
+      "title_marathi": "वारण भात",
       "category": "Main Dishes",
       "ingredients": [
         "Toor dal – 1 cup (rinse; soak 30 mins)",
@@ -289,7 +289,7 @@
     {
       "id": "vaalache-birdhe-field-bean-coconut-curry",
       "title": "Vaalache Birdhe (Field Bean Coconut Curry)",
-      "title_marathi": "वाळाचे बिरडे",
+      "title_marathi": "वालाचे बिरडे",
       "category": "Main Dishes",
       "ingredients": [
         "Sprouted & peeled kadve vaal – 2 cups",
@@ -318,7 +318,7 @@
     {
       "id": "teprat-goat-trotters-bottle-gourd-wedding-curry",
       "title": "Teprat (Goat Trotters & Bottle Gourd Wedding Curry)",
-      "title_marathi": "टेप्राट",
+      "title_marathi": "टेप्रत",
       "category": "Special Events",
       "ingredients": [
         "Goat trotters (paya) – 4, cut",
@@ -443,7 +443,7 @@
     {
       "id": "sukkat-javla-chi-bhaji-dry-shrimp-stir-fry",
       "title": "Sukkat Javla Chi Bhaji (Dry Shrimp Stir-fry)",
-      "title_marathi": "सुकट जावळा भाजी",
+      "title_marathi": "सुकट जवळा भाजी",
       "category": "Seafood",
       "ingredients": [
         "Dried tiny shrimp (javla) – 1 cup",
@@ -990,7 +990,7 @@
     {
       "id": "sukka-bombil-thecha-dry-fish-chili-crush",
       "title": "Sukka Bombil Thecha (Dry Fish Chili Crush)",
-      "title_marathi": "सुक्या बोंबीलचा ठेचा",
+      "title_marathi": "सुका बंबीलचा ठेचा",
       "category": "Preserves",
       "ingredients": [
         "Dry bombil – 4, roasted and crumbled",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": "chinch-gulachi-karamel-tamarind-jaggery-spread",
-      "title": "Chinch–Gulachi Karamel (Tamarind–Jaggery Spread)",
+      "title": "Chinch–Gulachi Karmel (Tamarind–Jaggery Spread)",
       "title_marathi": "चिंच-गुळाची करमेल",
       "category": "Preserves",
       "ingredients": [
@@ -1325,7 +1325,7 @@
     {
       "id": "ravali-rice-rava-cake",
       "title": "Ravali (Rice–Rava Cake)",
-      "title_marathi": "रावली",
+      "title_marathi": "रवळी",
       "category": "Festive",
       "ingredients": [
         "Rice – 1 cup (soaked, ground)",
@@ -1397,12 +1397,20 @@
       "category": "Festive",
       "ingredients": [
         "Ten mixed veggies (gourd, beans, peas, brinjal, etc.) – 6–8 cups",
-        "Onion – 1",
-        "Coconut – 1/2 cup",
-        "Spice mix (coriander, cumin, chilies) – 2 tbsp",
+        "2 tbsp cooking oil",
+        "1 tsp cumin seeds (jeera) or mustard seeds",
+        "1/4 tsp asafoetida powder (hing) (optional)",
+        "1/2 inch piece ginger, grated",
+        "300 gm potatoes, peeled and cut into bite-sized pieces",
+        "300 gm cabbage, finely shredded",
         "Turmeric – 1/2 tsp",
-        "Oil – 2 tbsp",
-        "Salt"
+        "1 1/2 tsp coriander powder",
+        "1 tsp red chilli powder",
+        "1 tsp garam masala",
+        "1 tsp turmeric powder",
+        "1 tsp salt",
+        "1/2 tsp dry mango powder (amchoor) or juice of 1/2 lemon",
+        "Fresh coriander leaves for garnish (optional)"
       ],
       "prep_time": "30 mins",
       "cook_time": "30–35 mins",
@@ -1488,28 +1496,55 @@
       "title_marathi": "भुजिंग",
       "category": "Special Events",
       "ingredients": [
-        "Bone-in chicken – 1 kg",
-        "Thick poha – 3 cups",
-        "Onion – 2, sliced",
-        "Green chilies – 4",
-        "Ginger-garlic paste – 2 tbsp",
-        "Yogurt – 1/2 cup",
-        "Spice mix (chili, coriander, cumin) – 2 tbsp",
-        "Lemon – 1",
-        "Oil – 3 tbsp",
-        "Salt"
+        "400g boneless chicken, cut into 1-inch pieces",
+        "2 medium potatoes, thickly sliced with skin",
+        "2 cups pressed rice (poha), washed and set aside",
+        "2 medium onions, sliced",
+        "1 inch ginger, grated or made into a paste",
+        "4-5 cloves garlic, grated or made into a paste",
+        "2 green chilies, minced",
+        "½ cup dried coconut (khopra), grated (optional)",
+        "6 tbsp oil",
+        "For the marinade:", 
+        "1 tsp cumin powder",
+        "2 tsp coriander powder",
+        "¼ tsp turmeric powder",
+        "Salt to taste",
+        "For the main masala:",
+        "1 tsp red chili powder",
+        "½ tsp garam masala powder",
+        "Remaining turmeric powder from above",
+        "Fresh coriander leaves for garnish",
+        "1 small piece of charcoal",
+        "1 tsp ghee or oil (for smoking)",
+        "A small steel bowl"
       ],
       "prep_time": "30 mins (marination)",
       "cook_time": "35–45 mins (roast)",
       "total_time": "65 mins",
       "serves": "6–7",
       "procedure": [
-        "Marinate chicken with yogurt, spices, ginger-garlic, salt; rest 30 mins.",
-        "Roast over charcoal/oven till smoky and cooked.",
-        "Toss hot roasted chicken with poha, onion, chilies, lemon, and oil; the heat softens poha."
-      ],
-      "serving_suggestions": "Serve immediately as a community feast item.",
-      "context_tips": "Toss while chicken is hot so poha steams and absorbs flavors."
+        "Marinate the chicken: In a bowl, combine the chicken pieces and potato slices with the marinade ingredients (cumin powder, coriander powder, ¼ tsp turmeric, and salt). Mix well and set aside for 10-15 minutes.",
+        "Cook the chicken and potatoes.", 
+        "Heat 3 tablespoons of oil in a non-stick pan. Add the marinated chicken and potato mixture.", 
+        "Cook on high heat for 5-6 minutes, then reduce the heat, cover, and cook for another 3-4 minutes until the chicken is cooked through and the potatoes are tender.",
+        "Smoke the chicken (Bhujing process): ", 
+        "Transfer the cooked chicken mixture to a larger bowl. Place the small steel bowl in the center. Heat a piece of charcoal on a direct flame until it is glowing red. ", 
+        "Carefully place the hot coal in the steel bowl, pour the ghee or oil over it, and immediately cover the large bowl with a lid to trap the smoke. ", 
+        "Let it sit for 2-3 minutes to infuse a smoky flavor.",
+        "Prepare the masala paste: ", 
+        "In a blender, combine the garlic, green chilies, ginger, grated coconut, red chili powder, and garam masala powder. ", 
+        "Blend to a coarse paste using a very small amount of water if needed.",
+        "Sauté the onions and masala: ", 
+        "In another non-stick pan, heat the remaining oil. Add the sliced onions and sauté until golden brown. ", 
+        "Add the prepared coconut-spice paste and sauté until the oil separates from the masala. ", 
+        "Add the remaining turmeric powder and sauté for a few more seconds.",
+        "Combine and finish: ", 
+        "Add the smoked chicken mixture and the washed (pressed) rice (poha) to the pan. ", 
+        "Mix well to combine all the ingredients. Adjust salt if necessary and sprinkle some water to add moisture. ", 
+        "Cover and cook on low heat for 2-3 minutes.",
+        "Serve: Garnish with fresh coriander leaves and serve hot."
+      ]
     },
     {
       "id": "mutton-sukka-dry-masala-goat",
@@ -1517,22 +1552,52 @@
       "title_marathi": "मटण सुक्का",
       "category": "Special Events",
       "ingredients": [
-        "Goat – 800 g",
-        "Onion – 2, sliced",
-        "Roasted coconut – 1/2 cup",
-        "Spice mix (coriander, cumin, pepper, cloves, cinnamon) – 2 tbsp",
-        "Turmeric – 1/2 tsp",
-        "Oil – 3 tbsp",
-        "Salt"
+        "For Marination:",
+        "500g Mutton (lamb or goat meat), cut into small pieces",
+        "½ tsp Turmeric powder",
+        "1 tsp Red chili powder",
+        "1 tsp Ginger-garlic paste",
+        "Salt to taste",
+        "For the Vadvali Masala Powder:",
+        "2 Tbsp Coriander seeds",
+        "1 tsp Cumin seeds",
+        "1 tsp Fennel seeds",
+        "1.5 tsp Peppercorns",
+        "2-3 Dry red chilies",
+        "3 Cloves",
+        "2 Cinnamon sticks (approx. 1 inch each)",
+        "2 Green cardamom pods",
+        "For the Fry:",
+        "2 Tbsp Oil (gingelly oil is traditional)",
+        "150g Shallots (small pearl onions), sliced",
+        "2 Green chilies, slit",
+        "2 Sprigs Curry leaves",
+        "1 Tbsp Ginger-garlic paste",
+        "1 Tbsp Tamarind pulp (mixed with a little water)",
+        "Chopped coriander leaves for garnish"
       ],
       "prep_time": "20 mins",
       "cook_time": "45–60 mins",
       "total_time": "65 mins",
-      "serves": "5–6",
+      "serves": "5-6",
       "procedure": [
-        "Cook mutton with salt and turmeric till tender; dry out excess stock.",
-        "Roast spice mix and coconut; grind coarse.",
-        "Bhunao mutton with masala till dry and glossy."
+        "1. Marinate the mutton:",
+        "Wash and drain the mutton pieces. Marinate them for at least 30 minutes (or up to 1 hour) with turmeric powder, red chili powder, ginger-garlic paste, and salt.",
+        "2. Pressure cook the mutton:",
+        "In a pressure cooker, add the marinated mutton and about 1 cup of water. Cook for 4–5 whistles until the meat is tender. Keep the cooked mutton pieces and the cooking stock separate.",
+        "3. Prepare the masala powder:",
+        "In a dry pan, dry roast all the ingredients listed under 'Vadvali Masala' over low heat for 1–2 minutes until fragrant. Let the spices cool completely, then grind them into a fine powder using a blender or mixer.",
+        "4. Fry the mutton: ",
+        "In a separate pan or wok (kadai), heat the oil. Add the sliced shallots, slit green chilies, and curry leaves.",
+        "Fry until the shallots are translucent and light brown at the edges", 
+        "5. Add flavor base:",
+        "Add the ginger-garlic paste and fry for another minute until the raw smell disappears.", 
+        "6. Combine and cook:",
+        "Add the cooked mutton pieces and about half of the reserved stock water to the pan. Mix well and bring to a boil. Cook for about 10 minutes until the excess moisture starts to evaporate.",
+        "7. Finish the sukka:",
+        "Add the ground Vadvali masala powder and the tamarind pulp mixture. Mix thoroughly and continue to cook on low-medium heat, stirring occasionally, until the dish is dry and the spices coat the mutton pieces well.", 
+        "8. Garnish and serve:",
+        "Check for seasoning and adjust salt if necessary. Garnish with fresh chopped coriander leaves and serve hot."
       ],
       "serving_suggestions": "Serve with vade/bhakri and lemon.",
       "context_tips": "Final roasting on low heat gives the signature sukka shine."
