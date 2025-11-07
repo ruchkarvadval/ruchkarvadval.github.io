@@ -5,10 +5,10 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => {
-  // Get base path from environment variable or default to repository name
-  // For GitHub Pages: if repo is "username.github.io", use "/"
-  // Otherwise, use "/repository-name/"
-  const base = process.env.VITE_BASE_PATH || "/ruchkar-vadval-kitchen/";
+  // Get base path from environment variable or default to root
+  // For custom domains or username.github.io, use "/"
+  // For project pages, use "/repository-name/"
+  const base = process.env.VITE_BASE_PATH || "/";
 
   return {
     base,

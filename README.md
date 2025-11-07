@@ -69,7 +69,7 @@ This project is configured for automatic deployment to GitHub Pages using GitHub
 **Automatic Deployment:**
 1. Push your code to the `main` branch
 2. GitHub Actions will automatically build and deploy to GitHub Pages
-3. Your site will be available at: `https://hruturajvartak.github.io/ruchkar-vadval-kitchen/`
+3. Your site will be available at: `https://ruchkarvadval.github.io/`
 
 **Manual Deployment:**
 ```sh
@@ -81,10 +81,11 @@ npm run preview:gh-pages
 ```
 
 **Enable GitHub Pages:**
-1. Go to your repository Settings
+1. Go to your repository Settings: https://github.com/ruchkarvadval/ruchkarvadval.github.io/settings/pages
 2. Navigate to Pages section
 3. Under "Source", select "GitHub Actions"
 4. The workflow will automatically deploy on every push to `main`
+5. Your site will be live at: `https://ruchkarvadval.github.io/`
 
 ### Deploy via Lovable
 

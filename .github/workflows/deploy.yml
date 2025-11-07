@@ -34,10 +34,10 @@ jobs:
 
       - name: Build
         env:
-          # Set base path to match your repository name
-          # If your repo is "username.github.io", change this to "/"
-          # Otherwise, use "/repository-name/"
-          VITE_BASE_PATH: /ruchkar-vadval-kitchen/
+          # Set base path to match your deployment
+          # For custom domains or username.github.io, use "/"
+          # For project pages, use "/repository-name/"
+          VITE_BASE_PATH: /
         run: npm run build
 
       - name: Setup Pages
