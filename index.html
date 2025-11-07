@@ -38,7 +38,10 @@
             var decoded = l.search.slice(1).split('&').map(function(s) { 
               return s.replace(/~and~/g, '&')
             }).join('?');
-            var newPath = l.pathname.slice(0, -1) + decoded + l.hash;
+            // Ensure decoded path starts with / and handle root pathname correctly
+            var basePath = l.pathname === '/' ? '' : l.pathname.replace(/\/$/, '');
+            var decodedPath = decoded.indexOf('/') === 0 ? decoded : '/' + decoded;
+            var newPath = basePath + decodedPath + l.hash;
             window.history.replaceState(null, null, newPath);
           }
         } catch(e) {
