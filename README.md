@@ -62,6 +62,32 @@ This project is built with:
 
 ## How can I deploy this project?
 
+### Deploy to GitHub Pages
+
+This project is configured for automatic deployment to GitHub Pages using GitHub Actions.
+
+**Automatic Deployment:**
+1. Push your code to the `main` branch
+2. GitHub Actions will automatically build and deploy to GitHub Pages
+3. Your site will be available at: `https://hruturajvartak.github.io/ruchkar-vadval-kitchen/`
+
+**Manual Deployment:**
+```sh
+# Build for GitHub Pages
+npm run build:gh-pages
+
+# Preview the build locally
+npm run preview:gh-pages
+```
+
+**Enable GitHub Pages:**
+1. Go to your repository Settings
+2. Navigate to Pages section
+3. Under "Source", select "GitHub Actions"
+4. The workflow will automatically deploy on every push to `main`
+
+### Deploy via Lovable
+
 Simply open [Lovable](https://lovable.dev/projects/cad02b26-0cbb-4641-9227-d35198c9e4a8) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?

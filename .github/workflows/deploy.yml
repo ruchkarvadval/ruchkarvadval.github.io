@@ -37,7 +37,7 @@ jobs:
           # Set base path to match your repository name
           # If your repo is "username.github.io", change this to "/"
           # Otherwise, use "/repository-name/"
-          VITE_BASE_PATH: /ruchkar-vadval-kitchen-main/
+          VITE_BASE_PATH: /ruchkar-vadval-kitchen/
         run: npm run build
 
       - name: Setup Pages
