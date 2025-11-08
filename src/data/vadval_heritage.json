@@ -11,15 +11,15 @@
           "nameMarathi": "शीतला देवी मंदिर",
           "location": "Kelwa (Kelva)",
           "locationMarathi": "केळवे (केळवा)",
-          "summary": "Revered temple of Goddess Shitala Mata, believed to be *swayambhu* (self-manifested). Local lore connects the site to the Ramayana, stating Lord Rama worshipped Shiva here and created the 'Ram Kund.' The current temple was renovated about 300 years ago under Maratha queen Devi Ahilyabai Holkar. The stone idol was discovered after the goddess appeared in a villager's dream, and devotees visit seeking cures and protection from disease.",
+          "summary": "Revered temple of Goddess Shitala Mata, believed to be 'Swayambhu' (self-manifested). Local lore associates the site with the Ramayana, stating that Lord Rama worshipped Shiva here and created the 'Ram Kund.' The current temple was renovated about 300 years ago under the Maratha queen Devi Ahilyabai Holkar. The stone idol was discovered after the goddess appeared in a villager's dream, and devotees visit seeking cures and protection from disease.",
           "summaryMarathi": "शीतला माता यांचे पूजनीय मंदिर, जे स्वयंभू (आपोआप प्रकट झालेले) मानले जाते. स्थानिक कथेनुसार, भगवान रामाने येथे शिवाची पूजा केली आणि 'राम कुंड' तयार केले. मराठा राणी देवी अहिल्याबाई होळकर यांच्या नेतृत्वाखाली सुमारे ३०० वर्षांपूर्वी मंदिराचे नूतनीकरण झाले. देवी एका गावकऱ्याच्या स्वप्नात आल्यावर ही दगडी मूर्ती सापडली, आणि भाविक रोगमुक्ती आणि संरक्षणासाठी येथे भेट देतात."
         },
         {
           "name": "Hanuman Mandir",
           "nameMarathi": "हनुमान मंदिर",
           "location": "Chatale (Palghar taluka)",
-          "locationMarathi": "छटाळे (पालघर तालुका)",
-          "summary": "An old Hanuman temple considered the community's protective center. Local oral history holds the Maruti shrine in high esteem, and annual Hanuman Jayanti celebrations unite the community. The Hanuman idol here is believed to be powerful, answering prayers and safeguarding the village.",
+          "locationMarathi": "चटाळे (पालघर तालुका)",
+          "summary": "An old Hanuman temple is considered the community's protective center. Local oral history holds the Maruti shrine in high esteem, and annual Hanuman Jayanti celebrations unite the community. The Hanuman idol here is believed to be powerful, answering prayers and safeguarding the village.",
           "summaryMarathi": "हे जुने हनुमान मंदिर समाजाचे संरक्षक केंद्र मानले जाते. स्थानिक मौखिक इतिहासात या मारुती मंदिराला उच्च स्थान आहे, आणि वार्षिक हनुमान जयंती उत्सवामुळे संपूर्ण समाज एकत्र येतो. येथील हनुमान मूर्ती शक्तिशाली असून ती प्रार्थना ऐकते आणि गावाला सुरक्षित ठेवते, अशी श्रद्धा आहे."
         },
         {
@@ -27,7 +27,7 @@
           "nameMarathi": "आई एकवीरा देवी",
           "location": "Makunsar (near Saphale)",
           "locationMarathi": "माकूनसर (सफाळे जवळ)",
-          "summary": "Dedicated to Goddess Ekvira, the patron *Kuladevi* of the Vadval and Koli fishing community. She is regarded as a form of Parvati/Renuka and is believed to protect fishermen at sea and bless families. The very name of the nearby town Virar is said to derive from Ek-Vira, highlighting the goddess's regional importance.",
+          "summary": "Dedicated to Goddess Ekvira, the patron Kuladevi of the Vadval and Koli fishing community. She is regarded as a form of Parvati/Renuka and is believed to protect fishermen at sea and bless families. The very name of the nearby town Virar is said to derive from Ek-Vira, highlighting the goddess's regional importance.",
           "summaryMarathi": "ही वाडवळ आणि कोळी मच्छीमार समाजाची संरक्षक कुलदेवी आहे. पार्वती/रेणुका मातेचे रूप मानली जाणारी ही देवी समुद्रातील मच्छिमारांचे रक्षण करते आणि कुटुंबांना आशीर्वाद देते, अशी श्रद्धा आहे. विरार या जवळच्या शहराचे नावही 'एक-वीरा' या शब्दावरून आलेले आहे, जे देवीचे प्रादेशिक महत्त्व दर्शवते."
         },
         {
@@ -75,7 +75,7 @@
           "nameMarathi": "तारापूर किल्ला",
           "location": "Boisar (Vangaon area)",
           "locationMarathi": "बोईसर (वांगांव परिसर)",
-          "summary": "A fort controlled by Portuguese, Marathas, and the British. A unique local anecdote preserved in records states that Peshwa Bajirao I gifted a tiger (possibly an idol/memento) to an associate connected to Tarapur, which was kept at the fort for a hundred years and remains with his descendants.",
+          "summary": "A fort controlled by the Portuguese, Marathas, and the British. A unique local anecdote preserved in records states that Peshwa Bajirao I gifted a tiger (possibly an idol/memento) to an associate connected to Tarapur, which was kept at the fort for a hundred years and remains with his descendants.",
           "summaryMarathi": "हा किल्ला पोर्तुगीज, मराठे आणि ब्रिटिश यांच्या ताब्यात होता. स्थानिक नोंदीत जपलेल्या एका खास कथेनुसार, पेशवा बाजीराव (पहिले) यांनी तारापूरशी संबंधित एका सहकाऱ्याला वाघ (संभवतः मूर्ती किंवा स्मृतिचिन्ह) भेट दिला होता, जो शंभर वर्षे किल्ल्यावर ठेवला गेला आणि आजही त्यांच्या वंशजांकडे आहे."
         },
         {
@@ -83,8 +83,8 @@
           "nameMarathi": "सोपारा प्राचीन बंदर",
           "location": "Nala Sopara",
           "locationMarathi": "नाला सोपारा",
-          "summary": "An ancient port city (*Shripuri* or *Shurparaka*) dating back over 2,000 years, once the largest port on India's western coast. It is associated with multiple faiths; archaeologists unearthed relic caskets and fragments of Emperor Ashoka's edicts from a Buddhist stupa here in 1882, confirming its importance from at least the 3rd century BCE.",
-          "summaryMarathi": "हे २००० वर्षांहून अधिक जुने बंदर शहर (श्रीपुरी किंवा शूर्पारक) आहे, जे एकेकाळी भारताच्या पश्चिम किनारपट्टीवरील सर्वात मोठे बंदर होते. हे अनेक धर्मांशी संबंधित आहे; १८८२ मध्ये येथील बौद्ध स्तूपातून पुरातत्वशास्त्रज्ञांना सम्राट अशोकाचे शिलालेख आणि अवशेष सापडले, ज्यामुळे त्याचे महत्त्व किमान तिसऱ्या शतकापासून सिद्ध होते."
+          "summary": "An ancient port city ('Shripuri' or 'Shurparaka') dating back over 2,000 years, once the largest port on India's western coast. It is associated with multiple faiths; archaeologists unearthed relic caskets and fragments of Emperor Ashoka's edicts from a Buddhist stupa here in 1882, confirming its importance from at least the 3rd century BCE.",
+          "summaryMarathi": "हे २००० वर्षांहून अधिक जुने बंदर शहर ('श्रीपुरी' किंवा 'शूर्पारक') आहे, जे एकेकाळी भारताच्या पश्चिम किनारपट्टीवरील सर्वात मोठे बंदर होते. हे अनेक धर्मांशी संबंधित आहे; १८८२ मध्ये येथील बौद्ध स्तूपातून पुरातत्वशास्त्रज्ञांना सम्राट अशोकाचे शिलालेख आणि अवशेष सापडले, ज्यामुळे त्याचे महत्त्व किमान तिसऱ्या शतकापासून सिद्ध होते."
         }
       ]
     },
@@ -115,7 +115,7 @@
           "nameMarathi": "स्थानिक यात्रा आणि सांस्कृतिक संमिश्रण",
           "location": "Various Villages (Vasai, Kelwa Mahim, Nalasopara)",
           "locationMarathi": "विविध गावे (वसई, केळवा महीम, नाळासोपारा)",
-          "summary": "The region features unique fusion traditions, such as the nearly 500-year-old Indo-Portuguese customs (cuisine, *lugra* sari, Bandra Fest style feasts) preserved by the East Indian Catholic community of Vasai. Other examples include the joint celebration of Buddha Purnima by Hindu and Buddhist communities in Nalasopara and traditional folk theatre (*tamasha*) in villages like Saphale.",
+          "summary": "The region features unique fusion traditions, such as the nearly 500-year-old Indo-Portuguese customs (cuisine, 'lugra' sari, Bandra Fest style feasts) preserved by the East Indian Catholic community of Vasai. Other examples include the joint celebration of Buddha Purnima by Hindu and Buddhist communities in Nalasopara and traditional folk theatre (*tamasha*) in villages like Saphale.",
           "summaryMarathi": "या प्रदेशात अनोख्या संमिश्र परंपरा आढळतात, जसे की वसईच्या ईस्ट इंडियन कॅथोलिक समाजाने जपलेल्या सुमारे ५०० वर्षे जुन्या इंडो-पोर्तुगीज चालीरीती (पाककला, लुग्रा साडी, बांद्रा फेस्टिव्हल शैलीतील मेजवान्या). नळासोपारा येथे हिंदू आणि बौद्ध समुदायांकडून बुद्ध पौर्णिमेचा एकत्रित उत्सव आणि सफाळेसारख्या गावांमध्ये पारंपारिक लोकनाट्य (तमाशा) ही त्याची इतर उदाहरणे आहेत."
         }
       ]
