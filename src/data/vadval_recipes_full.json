@@ -219,7 +219,7 @@
         "Cumin – 1 tsp",
         "Turmeric – 1/2 tsp",
         "Salt – to taste",
-        "Inaagre (palm/cane vinegar) – 2 tbsp (or 1 tbsp tamarind / juice of 1 lemon)",
+        "Inaagre (palm/cane vinegar) – 2 tbsp (or 1 tbsp tamarind/juice of 1 lemon)",
         "Oil – 2 tbsp",
         "Banana leaves – 2, softened over flame"
       ],
@@ -228,10 +228,10 @@
       "total_time": "45 mins",
       "serves": "2–3",
       "procedure": [
-        "Score and season fish with salt, turmeric, and a little vinegar.",
+        "Scale and season fish with salt, turmeric, and a little vinegar or lemon juice.",
         "Grind coconut, chilies, garlic, ginger, coriander, cumin, turmeric, salt with vinegar to a thick paste.",
-        "Stuff cavity and side slits. Rest 15–20 mins.",
-        "Wrap each fish in banana leaf parcel; secure and pan‑roast covered on medium, turning once or twice, till fish flakes."
+        "Stuff the paste in the vertical cavity of pomphret. Rest 15–20 mins.",
+        "Wrap each fish in a banana leaf; secure and pan‑roast covered on medium, turning once or twice, till fish flakes."
       ],
       "serving_suggestions": "Unwrap at table; serve with lemon and onion; pairs with rice or ghavan.",
       "context_tips": "Leaf‑wrapped patravali cooking keeps fish moist and aromatic; mortar‑pestle yields a superior texture."
@@ -316,9 +316,9 @@
       "context_tips": "Sprouting reduces bitterness; peel translucent skins for the best texture."
     },
     {
-      "id": "teprat-goat-trotters-bottle-gourd-wedding-curry",
-      "title": "Teprat (Goat Trotters & Bottle Gourd Wedding Curry)",
-      "title_marathi": "टेप्रत",
+      "id": "Mutton-trotters-bottle-gourd-wedding-curry",
+      "title": "Mutton (Goat Trotters & Bottle Gourd Wedding Curry)",
+      "title_marathi": "मटण पाया",
       "category": "Special Events",
       "ingredients": [
         "Goat trotters (paya) – 4, cut",
@@ -338,7 +338,7 @@
       "total_time": "145 mins",
       "serves": "6–8",
       "procedure": [
-        "Blanch cleaned trotters 5 mins with a pinch turmeric; drain.",
+        "Blanch cleaned trotters 5 mins with a pinch of turmeric; drain.",
         "Fry onions to golden; add ginger–garlic; then turmeric and chili powder.",
         "Add trotters; roast 5–7 mins. Add ground teprat masala; roast till oil separates.",
         "Add hot water and salt; cover and slow‑simmer ~2 hours.",
@@ -400,13 +400,13 @@
       "total_time": "40 mins",
       "serves": "4",
       "procedure": [
-        "Grind coconut with coriander, cumin, red chilies, garlic, ginger to a fine paste.",
-        "Heat oil; sauté onions to golden; add tomato till soft.",
+        "Grind coconut with coriander, cumin, red chilies, garlic, and ginger to a fine paste.",
+        "Heat oil; sauté onions till golden; add tomato till soft.",
         "Add masala and turmeric; roast till aromatic and oil separates.",
         "Add water to curry consistency; slide in bombil and kokum; simmer 6–8 mins; salt to taste."
       ],
       "serving_suggestions": "Serve with steamed rice or tandalachi bhakri.",
-      "context_tips": "Do not overcook bombil; add fish after gravy boils."
+      "context_tips": "Do not overcook bombil; add fish after the gravy boils."
     },
     {
       "id": "kalva-kalwan-clam-curry",
@@ -432,7 +432,7 @@
       "total_time": "35 mins",
       "serves": "4",
       "procedure": [
-        "Grind coconut with coriander, cumin, chilies, garlic, ginger to a smooth paste.",
+        "Grind coconut with coriander, cumin, chilies, garlic, and ginger to a smooth paste.",
         "Sauté onion in oil till light brown; add turmeric and coconut paste; roast.",
         "Add water; bring to boil; add clams; cook till they open.",
         "Season with tamarind and salt; simmer briefly."
@@ -516,9 +516,9 @@
       "total_time": "32 mins",
       "serves": "4",
       "procedure": [
-        "Grind coconut with chilies, garlic, ginger to smooth paste.",
+        "Grind coconut with chilies, garlic, and ginger to a smooth paste.",
         "Sauté onion in oil; add turmeric and masala; roast briefly.",
-        "Add water to thin; bring to boil; add fish and kokum; simmer gently till fish cooks."
+        "Add water to thin; bring to a boil; add fish and kokum; simmer gently till fish cooks."
       ],
       "serving_suggestions": "Serve with steamed rice.",
       "context_tips": "Add fish only after gravy boils; do not over-stir."
@@ -547,9 +547,9 @@
       "total_time": "35 mins",
       "serves": "4",
       "procedure": [
-        "Grind coconut-coriander-cumin-chilies-garlic to paste.",
+        "Grind coconut, coriander, cumin, chilies, and garlic to a paste.",
         "Sauté onion and tomato; add paste and turmeric; roast.",
-        "Add water; bring to boil; add soaked mackerel and tamarind; simmer till flavors meld."
+        "Add water; bring to a boil; add soaked mackerel and tamarind; simmer till flavors meld."
       ],
       "serving_suggestions": "Serve with rice and onion salad.",
       "context_tips": "Rinse dried fish well to control salinity."
@@ -578,7 +578,7 @@
       "total_time": "45 mins",
       "serves": "4–5",
       "procedure": [
-        "Marinate prawns with turmeric, chili, salt 10 mins.",
+        "Marinate prawns with turmeric, chili, salt for 10 mins.",
         "Heat oil/ghee; fry whole spices and onion to golden; add ginger-garlic, tomato.",
         "Add prawns; sauté briefly.",
         "Add soaked rice, salt, coconut milk + water to 4 cups total; cook covered till rice is done.",
@@ -703,12 +703,12 @@
       "total_time": "35 mins",
       "serves": "4",
       "procedure": [
-        "Pressure-cook black peas till tender; parboil yam with turmeric and salt.",
-        "Grind coconut-coriander-cumin-garlic-chilies to paste.",
-        "Sauté onion; add paste; roast; add peas, yam, tamarind, water; simmer to desired thickness."
+        "Pressure-cook black peas till tender; parboil yams with turmeric and salt.",
+        "Grind coconut-coriander-cumin-garlic-chilies to a paste.",
+        "Sauté onion; add paste; roast; add peas, yams, tamarind, water; simmer to desired thickness."
       ],
       "serving_suggestions": "Serve with rice; drizzle ghee if desired.",
-      "context_tips": "Handle yam carefully; use lemon/vinegar on hands to reduce itch."
+      "context_tips": "Handle yams carefully; use lemon/vinegar on hands to reduce itch."
     },
     {
       "id": "valpapdi-vangi-bhaji-field-bean-brinjal",
@@ -762,7 +762,7 @@
       "serves": "4",
       "procedure": [
         "Temper mustard & cumin in oil; add garlic and onion; sauté.",
-        "Add potatoes; cook half-way.",
+        "Add potatoes; cook halfway.",
         "Add cabbage and chickpeas; season; cook till tender-crisp."
       ],
       "serving_suggestions": "Serve with chapati/bhakri; squeeze lemon before serving.",
@@ -817,7 +817,7 @@
       "serves": "A large jar",
       "procedure": [
         "Mix lemon quarters with salt and turmeric; jar and sun for 3–4 days.",
-        "Add chili, methi and mustard powders; heat oil to smoking, cool slightly, pour over; mix and store."
+        "Add chili, methi, and mustard powders; heat oil to smoking, cool slightly, pour over; mix and store."
       ],
       "serving_suggestions": "Serve with meals, especially plain dal-chawal.",
       "context_tips": "Use clean, dry jars; oil layer prevents spoilage."
