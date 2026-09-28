@@ -4,11 +4,15 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { LanguageProvider } from "@/contexts/LanguageContext";
+import { AuthProvider } from "@/contexts/AuthContext";
 import Index from "./pages/Index";
 import Recipes from "./pages/Recipes";
 import Heritage from "./pages/Heritage";
 import RecipeDetail from "./pages/RecipeDetail";
 import Contribute from "./pages/Contribute";
+import AdminLogin from "./pages/AdminLogin";
+import Admin from "./pages/Admin";
+import AdminRecipeEdit from "./pages/AdminRecipeEdit";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -17,19 +21,23 @@ const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
       <LanguageProvider>
-        <Toaster />
-        <Sonner />
-        <BrowserRouter basename={import.meta.env.BASE_URL}>
-          <Routes>
-            <Route path="/" element={<Index />} />
-            <Route path="/recipes" element={<Recipes />} />
-            <Route path="/heritage" element={<Heritage />} />
-            <Route path="/recipe/:id" element={<RecipeDetail />} />
-            <Route path="/contribute" element={<Contribute />} />
-            {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
-            <Route path="*" element={<NotFound />} />
-          </Routes>
-        </BrowserRouter>
+        <AuthProvider>
+          <Toaster />
+          <Sonner />
+          <BrowserRouter basename={import.meta.env.BASE_URL}>
+            <Routes>
+              <Route path="/" element={<Index />} />
+              <Route path="/recipes" element={<Recipes />} />
+              <Route path="/heritage" element={<Heritage />} />
+              <Route path="/recipe/:id" element={<RecipeDetail />} />
+              <Route path="/contribute" element={<Contribute />} />
+              <Route path="/admin/login" element={<AdminLogin />} />
+              <Route path="/admin" element={<Admin />} />
+              <Route path="/admin/recipe/:id" element={<AdminRecipeEdit />} />
+              <Route path="*" element={<NotFound />} />
+            </Routes>
+          </BrowserRouter>
+        </AuthProvider>
       </LanguageProvider>
     </TooltipProvider>
   </QueryClientProvider>
